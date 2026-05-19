@@ -1,0 +1,842 @@
+[
+  {
+    "n": 1,
+    "module": "10",
+    "title": "Fluxo de compatibilização técnica com IA",
+    "subtitle": "Da coleta de dados à matriz preliminar de interferências.",
+    "blocks": [
+      {
+        "h": "Coletar dados",
+        "t": "Reunir plantas, memoriais, pranchas, fotos e observações disponíveis."
+      },
+      {
+        "h": "Separar disciplinas",
+        "t": "Arquitetura, estrutura, elétrica, hidrossanitário, HVAC, incêndio e outros sistemas."
+      },
+      {
+        "h": "Mapear interferências",
+        "t": "Registrar ambiente, elemento, conflito aparente, evidência e lacuna."
+      },
+      {
+        "h": "Classificar triagem",
+        "t": "Gravidade apenas preliminar: baixa, média, alta ou a validar."
+      },
+      {
+        "h": "Gerar perguntas",
+        "t": "Converter lacunas em perguntas objetivas aos projetistas."
+      },
+      {
+        "h": "Validar",
+        "t": "Encaminhar a profissional habilitado antes de decisão técnica."
+      }
+    ],
+    "color": "#00A6D6",
+    "accent": "#E6F8FE",
+    "code": "PR-01 | Compatibilização Técnica com IA"
+  },
+  {
+    "n": 2,
+    "module": "10",
+    "title": "Matriz de interferências entre disciplinas",
+    "subtitle": "Modelo visual para registrar conflitos aparentes por ambiente e sistema.",
+    "blocks": [
+      {
+        "h": "Disciplina A",
+        "t": "Sistema ou elemento de origem do conflito aparente."
+      },
+      {
+        "h": "Disciplina B",
+        "t": "Sistema impactado, como estrutura x instalações."
+      },
+      {
+        "h": "Ambiente",
+        "t": "Localização do ponto crítico: pavimento, cômodo ou eixo."
+      },
+      {
+        "h": "Evidência",
+        "t": "Prancha, foto, anotação, corte, detalhe ou descrição."
+      },
+      {
+        "h": "Pendência",
+        "t": "Dado ausente ou decisão que precisa de revisão."
+      },
+      {
+        "h": "Responsável",
+        "t": "Projetista ou profissional a consultar para validação."
+      }
+    ],
+    "color": "#00A6D6",
+    "accent": "#E6F8FE",
+    "code": "PR-02 | Compatibilização Técnica com IA"
+  },
+  {
+    "n": 3,
+    "module": "10",
+    "title": "Checklist visual de conflitos comuns",
+    "subtitle": "Pontos típicos de atenção em compatibilização preliminar.",
+    "blocks": [
+      {
+        "h": "Shafts",
+        "t": "Verificar reserva de espaço e coerência entre pavimentos."
+      },
+      {
+        "h": "Vigas e furos",
+        "t": "Não assumir passagem em elemento estrutural sem validação."
+      },
+      {
+        "h": "QDC e acessos",
+        "t": "Conferir localização, circulação e interferências."
+      },
+      {
+        "h": "Prumadas",
+        "t": "Checar alinhamento, distância e acessibilidade."
+      },
+      {
+        "h": "Alturas",
+        "t": "Validar forros, caimentos, equipamentos e interferências."
+      },
+      {
+        "h": "Documentos",
+        "t": "Conferir se plantas e memoriais estão na mesma revisão."
+      }
+    ],
+    "color": "#00A6D6",
+    "accent": "#E6F8FE",
+    "code": "PR-03 | Compatibilização Técnica com IA"
+  },
+  {
+    "n": 4,
+    "module": "10",
+    "title": "Mapa de perguntas para compatibilização",
+    "subtitle": "Perguntas que transformam dúvidas em pendências técnicas.",
+    "blocks": [
+      {
+        "h": "O que interfere?",
+        "t": "Identifique elementos, sistemas e ambientes envolvidos."
+      },
+      {
+        "h": "Onde ocorre?",
+        "t": "Pavimento, eixo, ambiente, corte ou detalhe."
+      },
+      {
+        "h": "Qual evidência?",
+        "t": "Indique origem do dado para permitir conferência."
+      },
+      {
+        "h": "Qual lacuna?",
+        "t": "Dado ausente, revisão diferente ou premissa não confirmada."
+      },
+      {
+        "h": "Quem valida?",
+        "t": "Projetista, coordenador ou profissional habilitado."
+      },
+      {
+        "h": "Qual próximo passo?",
+        "t": "Revisar prancha, solicitar detalhe, reunião ou medição."
+      }
+    ],
+    "color": "#00A6D6",
+    "accent": "#E6F8FE",
+    "code": "PR-04 | Compatibilização Técnica com IA"
+  },
+  {
+    "n": 5,
+    "module": "11",
+    "title": "Fluxo de levantamento de quantitativos",
+    "subtitle": "Organização de dados sem criar orçamento executivo.",
+    "blocks": [
+      {
+        "h": "Escopo",
+        "t": "Definir o que entra e o que fica fora do levantamento."
+      },
+      {
+        "h": "Ambientes",
+        "t": "Separar áreas, pavimentos e sistemas."
+      },
+      {
+        "h": "Serviços",
+        "t": "Descrever serviços com unidade e critério de medição."
+      },
+      {
+        "h": "Quantidades",
+        "t": "Separar informada, calculada e a medir."
+      },
+      {
+        "h": "Premissas",
+        "t": "Registrar hipóteses e fontes dos dados."
+      },
+      {
+        "h": "Validação",
+        "t": "Conferir com orçamento técnico e documentos-base."
+      }
+    ],
+    "color": "#2E7D32",
+    "accent": "#EAF6EC",
+    "code": "PR-05 | Orçamento e Quantitativos com IA"
+  },
+  {
+    "n": 6,
+    "module": "11",
+    "title": "Quantidade informada, estimada e validada",
+    "subtitle": "Diferença entre campos para evitar promessa indevida.",
+    "blocks": [
+      {
+        "h": "Informada",
+        "t": "Dado recebido do usuário ou documento-base."
+      },
+      {
+        "h": "Calculada",
+        "t": "Resultado de fórmula simples com dados suficientes."
+      },
+      {
+        "h": "A medir",
+        "t": "Campo pendente para levantamento detalhado."
+      },
+      {
+        "h": "Fonte",
+        "t": "Origem da informação: planta, memorial, visita ou usuário."
+      },
+      {
+        "h": "Critério",
+        "t": "Como a medição deve ser feita, a validar."
+      },
+      {
+        "h": "Validação",
+        "t": "Conferência por profissional habilitado antes do uso real."
+      }
+    ],
+    "color": "#2E7D32",
+    "accent": "#EAF6EC",
+    "code": "PR-06 | Orçamento e Quantitativos com IA"
+  },
+  {
+    "n": 7,
+    "module": "11",
+    "title": "Mapa de critérios de medição",
+    "subtitle": "Estrutura para padronizar unidade, escopo e premissas.",
+    "blocks": [
+      {
+        "h": "Serviço",
+        "t": "Nome claro e compatível com o escopo."
+      },
+      {
+        "h": "Unidade",
+        "t": "m², m³, m, ponto, peça ou outra unidade informada."
+      },
+      {
+        "h": "Inclusões",
+        "t": "O que está considerado na medição."
+      },
+      {
+        "h": "Exclusões",
+        "t": "O que não está considerado."
+      },
+      {
+        "h": "Premissas",
+        "t": "Hipóteses adotadas e lacunas."
+      },
+      {
+        "h": "Conferência",
+        "t": "Fonte, responsável e status de validação."
+      }
+    ],
+    "color": "#2E7D32",
+    "accent": "#EAF6EC",
+    "code": "PR-07 | Orçamento e Quantitativos com IA"
+  },
+  {
+    "n": 8,
+    "module": "11",
+    "title": "Estrutura de orçamento preliminar com IA",
+    "subtitle": "Como a IA pode organizar, sem definir preço oficial.",
+    "blocks": [
+      {
+        "h": "Dados de entrada",
+        "t": "Escopo, ambientes, serviços e documentos disponíveis."
+      },
+      {
+        "h": "Tabela de serviços",
+        "t": "Código, etapa, unidade, descrição e critério."
+      },
+      {
+        "h": "Quantitativos",
+        "t": "Campos separados para cada tipo de quantidade."
+      },
+      {
+        "h": "Insumos",
+        "t": "Lista sem preço quando não houver fonte."
+      },
+      {
+        "h": "Pendências",
+        "t": "Itens sem dado, sem unidade ou sem critério."
+      },
+      {
+        "h": "Limite",
+        "t": "Não substituir base de custos ou orçamento executivo."
+      }
+    ],
+    "color": "#2E7D32",
+    "accent": "#EAF6EC",
+    "code": "PR-08 | Orçamento e Quantitativos com IA"
+  },
+  {
+    "n": 9,
+    "module": "12",
+    "title": "Fluxo de criação de EAP",
+    "subtitle": "Do escopo às atividades em níveis de planejamento.",
+    "blocks": [
+      {
+        "h": "Escopo",
+        "t": "Defina objetivo, tipo de obra e entregáveis."
+      },
+      {
+        "h": "Macroetapas",
+        "t": "Preparação, fundação, estrutura, instalações, acabamento e entrega."
+      },
+      {
+        "h": "Subetapas",
+        "t": "Quebre cada macroetapa em partes controláveis."
+      },
+      {
+        "h": "Atividades",
+        "t": "Liste tarefas com responsável e status."
+      },
+      {
+        "h": "Dependências",
+        "t": "Identifique predecessoras e sucessoras."
+      },
+      {
+        "h": "Validação",
+        "t": "Transforme EAP em cronograma com profissional habilitado."
+      }
+    ],
+    "color": "#6B4FB3",
+    "accent": "#F1ECFB",
+    "code": "PR-09 | Planejamento de Obra com IA"
+  },
+  {
+    "n": 10,
+    "module": "12",
+    "title": "Atividades, dependências e marcos",
+    "subtitle": "Como organizar relações sem criar cronograma contratual.",
+    "blocks": [
+      {
+        "h": "Atividade",
+        "t": "Tarefa com descrição objetiva."
+      },
+      {
+        "h": "Predecessora",
+        "t": "O que precisa ocorrer antes."
+      },
+      {
+        "h": "Sucessora",
+        "t": "O que vem depois."
+      },
+      {
+        "h": "Marco",
+        "t": "Ponto de controle ou entrega intermediária."
+      },
+      {
+        "h": "Restrição",
+        "t": "Compra, projeto, equipe, acesso ou clima."
+      },
+      {
+        "h": "Status",
+        "t": "A preencher, pendente, em revisão ou a validar."
+      }
+    ],
+    "color": "#6B4FB3",
+    "accent": "#F1ECFB",
+    "code": "PR-10 | Planejamento de Obra com IA"
+  },
+  {
+    "n": 11,
+    "module": "12",
+    "title": "Mapa de riscos de planejamento",
+    "subtitle": "Riscos percebidos, impacto e ações preventivas.",
+    "blocks": [
+      {
+        "h": "Risco",
+        "t": "Evento que pode afetar prazo, custo ou sequência."
+      },
+      {
+        "h": "Causa",
+        "t": "Origem provável: projeto, compra, equipe ou acesso."
+      },
+      {
+        "h": "Impacto",
+        "t": "Efeito esperado, sempre preliminar."
+      },
+      {
+        "h": "Probabilidade",
+        "t": "Triagem qualitativa: baixa, média, alta ou a validar."
+      },
+      {
+        "h": "Ação",
+        "t": "Medida preventiva ou próxima verificação."
+      },
+      {
+        "h": "Responsável",
+        "t": "Pessoa ou função indicada para acompanhamento."
+      }
+    ],
+    "color": "#6B4FB3",
+    "accent": "#F1ECFB",
+    "code": "PR-11 | Planejamento de Obra com IA"
+  },
+  {
+    "n": 12,
+    "module": "12",
+    "title": "Cronograma preliminar: limites",
+    "subtitle": "O que pode e o que não pode afirmar com IA.",
+    "blocks": [
+      {
+        "h": "Pode apoiar",
+        "t": "Sequenciar tarefas e organizar dependências."
+      },
+      {
+        "h": "Pode estimar",
+        "t": "Durações conceituais quando explicitamente indicadas."
+      },
+      {
+        "h": "Não pode",
+        "t": "Garantir prazo real, contratual ou legal."
+      },
+      {
+        "h": "Requer dados",
+        "t": "Equipe, produtividade, logística, compras e restrições."
+      },
+      {
+        "h": "Requer revisão",
+        "t": "Gestor de obra ou profissional habilitado."
+      },
+      {
+        "h": "Registrar",
+        "t": "Premissas, lacunas, riscos e validações."
+      }
+    ],
+    "color": "#6B4FB3",
+    "accent": "#F1ECFB",
+    "code": "PR-12 | Planejamento de Obra com IA"
+  },
+  {
+    "n": 13,
+    "module": "13",
+    "title": "Fluxo de vistoria assistida por IA",
+    "subtitle": "Organização de observações sem emitir laudo.",
+    "blocks": [
+      {
+        "h": "Objetivo",
+        "t": "Definir finalidade educacional ou preliminar."
+      },
+      {
+        "h": "Registro",
+        "t": "Anotar local, ambiente, elemento e observação."
+      },
+      {
+        "h": "Fotos",
+        "t": "Vincular foto ao registro e descrever evidência."
+      },
+      {
+        "h": "Achado aparente",
+        "t": "Descrever sem diagnóstico definitivo."
+      },
+      {
+        "h": "Limitação",
+        "t": "Informar ausência de ensaio, medição ou avaliação completa."
+      },
+      {
+        "h": "Validação",
+        "t": "Encaminhar a profissional habilitado."
+      }
+    ],
+    "color": "#F28C28",
+    "accent": "#FFF3E5",
+    "code": "PR-13 | Vistorias e Relatórios Técnicos com IA"
+  },
+  {
+    "n": 14,
+    "module": "13",
+    "title": "Mapa de registro fotográfico técnico",
+    "subtitle": "Como organizar fotos para relatório preliminar.",
+    "blocks": [
+      {
+        "h": "ID da foto",
+        "t": "Código único para rastreabilidade."
+      },
+      {
+        "h": "Local",
+        "t": "Ambiente, pavimento e elemento observado."
+      },
+      {
+        "h": "Descrição",
+        "t": "Fato objetivo visível na imagem."
+      },
+      {
+        "h": "Achado",
+        "t": "Indício aparente, sem conclusão definitiva."
+      },
+      {
+        "h": "Limitação",
+        "t": "Foto isolada não substitui vistoria técnica."
+      },
+      {
+        "h": "Próximo passo",
+        "t": "Medição, inspeção, ensaio ou revisão profissional."
+      }
+    ],
+    "color": "#F28C28",
+    "accent": "#FFF3E5",
+    "code": "PR-14 | Vistorias e Relatórios Técnicos com IA"
+  },
+  {
+    "n": 15,
+    "module": "13",
+    "title": "Classificação preliminar de achados",
+    "subtitle": "Severidade e urgência apenas como triagem.",
+    "blocks": [
+      {
+        "h": "Baixa",
+        "t": "Registro para acompanhamento, a validar."
+      },
+      {
+        "h": "Média",
+        "t": "Pode exigir verificação complementar."
+      },
+      {
+        "h": "Alta",
+        "t": "Requer atenção técnica prioritária."
+      },
+      {
+        "h": "Crítica",
+        "t": "Não concluir sem profissional; orientar avaliação imediata quando aplicável."
+      },
+      {
+        "h": "Não informado",
+        "t": "Faltam dados, foto ou localização."
+      },
+      {
+        "h": "A validar",
+        "t": "Toda classificação precisa de revisão técnica."
+      }
+    ],
+    "color": "#F28C28",
+    "accent": "#FFF3E5",
+    "code": "PR-15 | Vistorias e Relatórios Técnicos com IA"
+  },
+  {
+    "n": 16,
+    "module": "13",
+    "title": "Estrutura segura de relatório preliminar",
+    "subtitle": "Separar fato, hipótese, lacuna e recomendação.",
+    "blocks": [
+      {
+        "h": "Identificação",
+        "t": "Imóvel, data, objetivo e documentos-base."
+      },
+      {
+        "h": "Metodologia",
+        "t": "Inspeção visual ou registros informados."
+      },
+      {
+        "h": "Fatos",
+        "t": "Descrição objetiva dos achados aparentes."
+      },
+      {
+        "h": "Hipóteses",
+        "t": "Possíveis causas, sempre a validar."
+      },
+      {
+        "h": "Pendências",
+        "t": "Dados, fotos, medições ou ensaios faltantes."
+      },
+      {
+        "h": "Limites",
+        "t": "Não é laudo, perícia ou parecer técnico."
+      }
+    ],
+    "color": "#F28C28",
+    "accent": "#FFF3E5",
+    "code": "PR-16 | Vistorias e Relatórios Técnicos com IA"
+  },
+  {
+    "n": 17,
+    "module": "14",
+    "title": "Fluxo de identificação preliminar de riscos",
+    "subtitle": "Roteiro educacional para etapa de obra.",
+    "blocks": [
+      {
+        "h": "Atividade",
+        "t": "Descrever tarefa e ambiente de trabalho."
+      },
+      {
+        "h": "Riscos",
+        "t": "Queda, choque, soterramento, cortes, poeira ou outros."
+      },
+      {
+        "h": "Controles",
+        "t": "Medidas preventivas, EPI, EPC e sinalização."
+      },
+      {
+        "h": "DDS",
+        "t": "Roteiro de orientação diária para estudo."
+      },
+      {
+        "h": "Normas",
+        "t": "Verificar fonte oficial vigente quando aplicável."
+      },
+      {
+        "h": "SST",
+        "t": "Validar com profissional de segurança do trabalho."
+      }
+    ],
+    "color": "#B83227",
+    "accent": "#FDECEA",
+    "code": "PR-17 | Segurança do Trabalho em Obras com IA"
+  },
+  {
+    "n": 18,
+    "module": "14",
+    "title": "Mapa visual de EPI, EPC e sinalização",
+    "subtitle": "Separação conceitual dos controles de segurança.",
+    "blocks": [
+      {
+        "h": "EPI",
+        "t": "Proteção individual indicada conforme atividade."
+      },
+      {
+        "h": "EPC",
+        "t": "Proteção coletiva do ambiente ou sistema."
+      },
+      {
+        "h": "Sinalização",
+        "t": "Avisos, isolamento, rotas e identificação de risco."
+      },
+      {
+        "h": "Treinamento",
+        "t": "Orientação formal quando exigida, a validar."
+      },
+      {
+        "h": "Inspeção",
+        "t": "Verificação de uso, conservação e adequação."
+      },
+      {
+        "h": "Limite",
+        "t": "Não substitui programa legal de SST."
+      }
+    ],
+    "color": "#B83227",
+    "accent": "#FDECEA",
+    "code": "PR-18 | Segurança do Trabalho em Obras com IA"
+  },
+  {
+    "n": 19,
+    "module": "14",
+    "title": "Estrutura de DDS com apoio de IA",
+    "subtitle": "Roteiro educativo para conversa de segurança.",
+    "blocks": [
+      {
+        "h": "Tema",
+        "t": "Atividade ou risco do dia."
+      },
+      {
+        "h": "Riscos",
+        "t": "Principais perigos da tarefa."
+      },
+      {
+        "h": "Prevenção",
+        "t": "Medidas simples e objetivas."
+      },
+      {
+        "h": "EPI/EPC",
+        "t": "Itens a conferir antes da atividade."
+      },
+      {
+        "h": "Exemplo",
+        "t": "Situação realista sem sensacionalismo."
+      },
+      {
+        "h": "Fechamento",
+        "t": "Mensagem final e confirmação de entendimento."
+      }
+    ],
+    "color": "#B83227",
+    "accent": "#FDECEA",
+    "code": "PR-19 | Segurança do Trabalho em Obras com IA"
+  },
+  {
+    "n": 20,
+    "module": "14",
+    "title": "Limites da IA em segurança do trabalho",
+    "subtitle": "Apoio educacional não substitui documentação legal.",
+    "blocks": [
+      {
+        "h": "Não substitui",
+        "t": "PGR, PCMSO, APR formal, LTCAT, laudo ou treinamento legal."
+      },
+      {
+        "h": "Não garante",
+        "t": "Conformidade, segurança ou liberação de atividade."
+      },
+      {
+        "h": "Pode apoiar",
+        "t": "Organização de checklists e materiais educativos."
+      },
+      {
+        "h": "Depende",
+        "t": "Norma vigente, atividade real e condição do canteiro."
+      },
+      {
+        "h": "Validar",
+        "t": "Profissional de SST habilitado."
+      },
+      {
+        "h": "Registrar",
+        "t": "Fonte, data, responsável e pendências."
+      }
+    ],
+    "color": "#B83227",
+    "accent": "#FDECEA",
+    "code": "PR-20 | Segurança do Trabalho em Obras com IA"
+  },
+  {
+    "n": 21,
+    "module": "G",
+    "title": "Como usar IA em obras com segurança",
+    "subtitle": "Método geral para evitar decisões técnicas sem validação.",
+    "blocks": [
+      {
+        "h": "Dados",
+        "t": "Informe contexto, documentos e lacunas."
+      },
+      {
+        "h": "Separação",
+        "t": "Dado informado, hipótese, pendência e validação."
+      },
+      {
+        "h": "Prompt seguro",
+        "t": "Proíba a IA de inventar dados ou aprovar soluções."
+      },
+      {
+        "h": "Revisão",
+        "t": "Compare saída com checklist do módulo."
+      },
+      {
+        "h": "Registro",
+        "t": "Documente limites e fontes."
+      },
+      {
+        "h": "Validação",
+        "t": "Encaminhe a profissional habilitado."
+      }
+    ],
+    "color": "#0F4C81",
+    "accent": "#EAF2FB",
+    "code": "PR-21 | Guia Geral dos Módulos IA 10 a 14"
+  },
+  {
+    "n": 22,
+    "module": "G",
+    "title": "Apoio da IA x validação profissional",
+    "subtitle": "Diferença entre produtividade e responsabilidade técnica.",
+    "blocks": [
+      {
+        "h": "IA organiza",
+        "t": "Tabelas, listas, relatórios preliminares e perguntas."
+      },
+      {
+        "h": "IA explica",
+        "t": "Conceitos, fluxos e campos de controle."
+      },
+      {
+        "h": "IA não assina",
+        "t": "Não emite responsabilidade técnica."
+      },
+      {
+        "h": "IA não aprova",
+        "t": "Não libera obra, orçamento, cronograma ou SST."
+      },
+      {
+        "h": "Profissional valida",
+        "t": "Decisões técnicas, legais e executivas."
+      },
+      {
+        "h": "Cliente entende",
+        "t": "Material é educacional e preliminar."
+      }
+    ],
+    "color": "#0F4C81",
+    "accent": "#EAF2FB",
+    "code": "PR-22 | Guia Geral dos Módulos IA 10 a 14"
+  },
+  {
+    "n": 23,
+    "module": "G",
+    "title": "Fluxo geral dos Módulos IA 10 a 14",
+    "subtitle": "Integração entre compatibilização, orçamento, planejamento, vistoria e SST.",
+    "blocks": [
+      {
+        "h": "10 Compatibiliza",
+        "t": "Mapeia interferências e lacunas."
+      },
+      {
+        "h": "11 Quantifica",
+        "t": "Organiza serviços e quantidades."
+      },
+      {
+        "h": "12 Planeja",
+        "t": "Estrutura EAP, atividades e riscos."
+      },
+      {
+        "h": "13 Registra",
+        "t": "Organiza vistoria e achados aparentes."
+      },
+      {
+        "h": "14 Segurança",
+        "t": "Organiza riscos, EPI, EPC e DDS."
+      },
+      {
+        "h": "Controle",
+        "t": "Pendências e validações conectam todos os módulos."
+      }
+    ],
+    "color": "#0F4C81",
+    "accent": "#EAF2FB",
+    "code": "PR-23 | Guia Geral dos Módulos IA 10 a 14"
+  },
+  {
+    "n": 24,
+    "module": "G",
+    "title": "Jornada do usuário no pacote completo",
+    "subtitle": "Sequência sugerida para estudar, aplicar e apresentar.",
+    "blocks": [
+      {
+        "h": "Estudar",
+        "t": "Ler guia geral e guia do módulo."
+      },
+      {
+        "h": "Preencher",
+        "t": "Usar planilhas editáveis."
+      },
+      {
+        "h": "Aplicar",
+        "t": "Copiar prompts essenciais com dados completos."
+      },
+      {
+        "h": "Revisar",
+        "t": "Usar checklists e pranchas conceituais."
+      },
+      {
+        "h": "Documentar",
+        "t": "Gerar relatório preliminar."
+      },
+      {
+        "h": "Validar",
+        "t": "Registrar revisão por profissional habilitado."
+      }
+    ],
+    "color": "#0F4C81",
+    "accent": "#EAF2FB",
+    "code": "PR-24 | Guia Geral dos Módulos IA 10 a 14"
+  }
+]
