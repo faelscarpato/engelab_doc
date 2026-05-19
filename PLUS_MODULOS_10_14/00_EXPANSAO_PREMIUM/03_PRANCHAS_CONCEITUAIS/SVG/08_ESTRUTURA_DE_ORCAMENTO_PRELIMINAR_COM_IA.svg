@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#0B1F33"/>
+<rect x="40" y="40" width="1000" height="180" rx="30" fill="#0E2A44" stroke="#2E7D32" stroke-width="3"/>
+<text x="70" y="95" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">Estrutura de orçamento preliminar com IA</text>
+<text x="70" y="150" fill="#D7E3F4" font-size="24" font-family="Arial">Como a IA pode organizar, sem definir preço oficial.</text>
+<rect x="40" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">1. Dados de entrada</text>
+<text x="70" y="350" fill="#111827" font-size="18" font-family="Arial">Escopo, ambientes, serviços e documentos disponíveis.</text>
+<rect x="555" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">2. Tabela de serviços</text>
+<text x="585" y="350" fill="#111827" font-size="18" font-family="Arial">Código, etapa, unidade, descrição e critério.</text>
+<rect x="40" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">3. Quantitativos</text>
+<text x="70" y="595" fill="#111827" font-size="18" font-family="Arial">Campos separados para cada tipo de quantidade.</text>
+<rect x="555" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">4. Insumos</text>
+<text x="585" y="595" fill="#111827" font-size="18" font-family="Arial">Lista sem preço quando não houver fonte.</text>
+<rect x="40" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">5. Pendências</text>
+<text x="70" y="840" fill="#111827" font-size="18" font-family="Arial">Itens sem dado, sem unidade ou sem critério.</text>
+<rect x="555" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">6. Limite</text>
+<text x="585" y="840" fill="#111827" font-size="18" font-family="Arial">Não substituir base de custos ou orçamento executivo.</text>
+</svg>

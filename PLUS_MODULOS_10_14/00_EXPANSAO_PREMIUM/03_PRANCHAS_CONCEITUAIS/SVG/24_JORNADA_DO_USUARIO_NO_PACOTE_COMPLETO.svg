@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#0B1F33"/>
+<rect x="40" y="40" width="1000" height="180" rx="30" fill="#0E2A44" stroke="#0F4C81" stroke-width="3"/>
+<text x="70" y="95" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">Jornada do usuário no pacote completo</text>
+<text x="70" y="150" fill="#D7E3F4" font-size="24" font-family="Arial">Sequência sugerida para estudar, aplicar e apresentar.</text>
+<rect x="40" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">1. Estudar</text>
+<text x="70" y="350" fill="#111827" font-size="18" font-family="Arial">Ler guia geral e guia do módulo.</text>
+<rect x="555" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">2. Preencher</text>
+<text x="585" y="350" fill="#111827" font-size="18" font-family="Arial">Usar planilhas editáveis.</text>
+<rect x="40" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">3. Aplicar</text>
+<text x="70" y="595" fill="#111827" font-size="18" font-family="Arial">Copiar prompts essenciais com dados completos.</text>
+<rect x="555" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">4. Revisar</text>
+<text x="585" y="595" fill="#111827" font-size="18" font-family="Arial">Usar checklists e pranchas conceituais.</text>
+<rect x="40" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">5. Documentar</text>
+<text x="70" y="840" fill="#111827" font-size="18" font-family="Arial">Gerar relatório preliminar.</text>
+<rect x="555" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">6. Validar</text>
+<text x="585" y="840" fill="#111827" font-size="18" font-family="Arial">Registrar revisão por profissional habilitado.</text>
+</svg>

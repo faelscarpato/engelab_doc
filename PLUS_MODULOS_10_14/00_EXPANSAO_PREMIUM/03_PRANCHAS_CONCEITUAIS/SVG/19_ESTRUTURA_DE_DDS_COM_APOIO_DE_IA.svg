@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#0B1F33"/>
+<rect x="40" y="40" width="1000" height="180" rx="30" fill="#0E2A44" stroke="#B83227" stroke-width="3"/>
+<text x="70" y="95" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">Estrutura de DDS com apoio de IA</text>
+<text x="70" y="150" fill="#D7E3F4" font-size="24" font-family="Arial">Roteiro educativo para conversa de segurança.</text>
+<rect x="40" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">1. Tema</text>
+<text x="70" y="350" fill="#111827" font-size="18" font-family="Arial">Atividade ou risco do dia.</text>
+<rect x="555" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">2. Riscos</text>
+<text x="585" y="350" fill="#111827" font-size="18" font-family="Arial">Principais perigos da tarefa.</text>
+<rect x="40" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">3. Prevenção</text>
+<text x="70" y="595" fill="#111827" font-size="18" font-family="Arial">Medidas simples e objetivas.</text>
+<rect x="555" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">4. EPI/EPC</text>
+<text x="585" y="595" fill="#111827" font-size="18" font-family="Arial">Itens a conferir antes da atividade.</text>
+<rect x="40" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">5. Exemplo</text>
+<text x="70" y="840" fill="#111827" font-size="18" font-family="Arial">Situação realista sem sensacionalismo.</text>
+<rect x="555" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">6. Fechamento</text>
+<text x="585" y="840" fill="#111827" font-size="18" font-family="Arial">Mensagem final e confirmação de entendimento.</text>
+</svg>

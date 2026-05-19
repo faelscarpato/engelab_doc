@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#0B1F33"/>
+<rect x="40" y="40" width="1000" height="180" rx="30" fill="#0E2A44" stroke="#6B4FB3" stroke-width="3"/>
+<text x="70" y="95" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">Mapa de riscos de planejamento</text>
+<text x="70" y="150" fill="#D7E3F4" font-size="24" font-family="Arial">Riscos percebidos, impacto e ações preventivas.</text>
+<rect x="40" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">1. Risco</text>
+<text x="70" y="350" fill="#111827" font-size="18" font-family="Arial">Evento que pode afetar prazo, custo ou sequência.</text>
+<rect x="555" y="250" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="300" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">2. Causa</text>
+<text x="585" y="350" fill="#111827" font-size="18" font-family="Arial">Origem provável: projeto, compra, equipe ou acesso.</text>
+<rect x="40" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">3. Impacto</text>
+<text x="70" y="595" fill="#111827" font-size="18" font-family="Arial">Efeito esperado, sempre preliminar.</text>
+<rect x="555" y="495" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="545" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">4. Probabilidade</text>
+<text x="585" y="595" fill="#111827" font-size="18" font-family="Arial">Triagem qualitativa: baixa, média, alta ou a validar.</text>
+<rect x="40" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="70" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">5. Ação</text>
+<text x="70" y="840" fill="#111827" font-size="18" font-family="Arial">Medida preventiva ou próxima verificação.</text>
+<rect x="555" y="740" width="485" height="215" rx="24" fill="#ffffff" stroke="#C8D7E7" stroke-width="2"/>
+<text x="585" y="790" fill="#0B1F33" font-size="24" font-family="Arial" font-weight="700">6. Responsável</text>
+<text x="585" y="840" fill="#111827" font-size="18" font-family="Arial">Pessoa ou função indicada para acompanhamento.</text>
+</svg>
