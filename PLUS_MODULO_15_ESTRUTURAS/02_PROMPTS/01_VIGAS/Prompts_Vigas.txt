@@ -1,0 +1,210 @@
+PROMPT INDIVIDUAL — EST-01: Viga Baldrame Residencial
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-01 — Viga Baldrame Residencial
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga baldrame sob paredes, corte e relação solo/alvenaria.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-01 — Viga Baldrame Residencial".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-01 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-02: Viga Aérea em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-02 — Viga Aérea em Concreto Armado
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga elevada apoiada em pilares, armadura conceitual e tabela de trechos.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-02 — Viga Aérea em Concreto Armado".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-02 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-03: Viga de Travamento entre Sapatas
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-03 — Viga de Travamento entre Sapatas
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Travamento de fundações isoladas e ligação com pilares.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-03 — Viga de Travamento entre Sapatas".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-03 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-04: Viga de Borda para Laje
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-04 — Viga de Borda para Laje
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga periférica associada à laje e fechamento.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-04 — Viga de Borda para Laje".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-04 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-05: Viga Invertida Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-05 — Viga Invertida Conceitual
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga com alma acima da laje para estudo de interferência e altura útil.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-05 — Viga Invertida Conceitual".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-05 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+

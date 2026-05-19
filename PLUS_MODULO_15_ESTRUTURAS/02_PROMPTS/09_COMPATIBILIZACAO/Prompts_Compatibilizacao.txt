@@ -1,0 +1,210 @@
+PROMPT INDIVIDUAL — EST-41: Compatibilização Pilar x Arquitetura
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-41 — Compatibilização Pilar x Arquitetura
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Conflito com portas, vagas, circulação e layout.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-41 — Compatibilização Pilar x Arquitetura".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-41 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-42: Compatibilização Viga x Forro
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-42 — Compatibilização Viga x Forro
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Altura livre, passagem de instalações e interferências.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-42 — Compatibilização Viga x Forro".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-42 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-43: Shaft Técnico atravessando Laje
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-43 — Shaft Técnico atravessando Laje
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Abertura, borda de laje e passagem vertical.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-43 — Shaft Técnico atravessando Laje".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-43 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-44: Interferência Hidráulica em Viga
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-44 — Interferência Hidráulica em Viga
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Furo indevido, rota alternativa e alerta técnico.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-44 — Interferência Hidráulica em Viga".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-44 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+
+PROMPT INDIVIDUAL — EST-45: Mapa de Conflitos Estruturais
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-45 — Mapa de Conflitos Estruturais
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Quadro de conflitos entre disciplinas.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-45 — Mapa de Conflitos Estruturais".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-45 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+--------------------------------------------------------------------------------
+

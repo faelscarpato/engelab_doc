@@ -1,0 +1,39 @@
+PROMPT INDIVIDUAL — EST-22: Muro de Arrimo em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-22 — Muro de Arrimo em Concreto Armado
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Corte do muro, base, empuxo e estabilidade conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-22 — Muro de Arrimo em Concreto Armado".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-22 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.

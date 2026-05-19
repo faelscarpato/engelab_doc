@@ -1,0 +1,3901 @@
+ordem,codigo,arquivo,titulo,prompt_expandido
+1,EST-01,EST-01_Viga_Baldrame_Residencial.txt,PROMPT INDIVIDUAL — EST-01: Viga Baldrame Residencial,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-01: Viga Baldrame Residencial
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-01 — Viga Baldrame Residencial
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga baldrame sob paredes, corte e relação solo/alvenaria.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-01 — Viga Baldrame Residencial"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-01 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+2,EST-02,EST-02_Viga_Aerea_em_Concreto_Armado.txt,PROMPT INDIVIDUAL — EST-02: Viga Aérea em Concreto Armado,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-02: Viga Aérea em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-02 — Viga Aérea em Concreto Armado
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga elevada apoiada em pilares, armadura conceitual e tabela de trechos.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-02 — Viga Aérea em Concreto Armado"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-02 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+3,EST-03,EST-03_Viga_de_Travamento_entre_Sapatas.txt,PROMPT INDIVIDUAL — EST-03: Viga de Travamento entre Sapatas,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-03: Viga de Travamento entre Sapatas
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-03 — Viga de Travamento entre Sapatas
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Travamento de fundações isoladas e ligação com pilares.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-03 — Viga de Travamento entre Sapatas"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-03 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+4,EST-04,EST-04_Viga_de_Borda_para_Laje.txt,PROMPT INDIVIDUAL — EST-04: Viga de Borda para Laje,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-04: Viga de Borda para Laje
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-04 — Viga de Borda para Laje
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga periférica associada à laje e fechamento.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-04 — Viga de Borda para Laje"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-04 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+5,EST-05,EST-05_Viga_Invertida_Conceitual.txt,PROMPT INDIVIDUAL — EST-05: Viga Invertida Conceitual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-05: Viga Invertida Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-05 — Viga Invertida Conceitual
+
+Categoria: Vigas
+
+Objetivo da prancha:
+Viga com alma acima da laje para estudo de interferência e altura útil.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-05 — Viga Invertida Conceitual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-05 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar planta/corte da viga, apoios, vãos, armadura longitudinal e estribos de forma didática, relação com laje/pilar/fundação quando aplicável.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+6,EST-06,EST-06_Pilar_Residencial_em_Concreto_Armado.txt,PROMPT INDIVIDUAL — EST-06: Pilar Residencial em Concreto Armado,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-06: Pilar Residencial em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-06 — Pilar Residencial em Concreto Armado
+
+Categoria: Pilares
+
+Objetivo da prancha:
+Pilar simples com seção, estribos, armadura longitudinal e ligação com vigas.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-06 — Pilar Residencial em Concreto Armado"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-06 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar vista frontal, seção transversal, armaduras longitudinais, estribos, cobrimento conceitual, esperas e conexão com vigas/fundações.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+7,EST-07,EST-07_Pilar_de_Canto_com_Vigas_Conectadas.txt,PROMPT INDIVIDUAL — EST-07: Pilar de Canto com Vigas Conectadas,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-07: Pilar de Canto com Vigas Conectadas
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-07 — Pilar de Canto com Vigas Conectadas
+
+Categoria: Pilares
+
+Objetivo da prancha:
+Pilar em extremidade com vigas em duas direções.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-07 — Pilar de Canto com Vigas Conectadas"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-07 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar vista frontal, seção transversal, armaduras longitudinais, estribos, cobrimento conceitual, esperas e conexão com vigas/fundações.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+8,EST-08,EST-08_Pilar_de_Borda.txt,PROMPT INDIVIDUAL — EST-08: Pilar de Borda,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-08: Pilar de Borda
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-08 — Pilar de Borda
+
+Categoria: Pilares
+
+Objetivo da prancha:
+Pilar lateral com excentricidade conceitual e tabela de identificação.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-08 — Pilar de Borda"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-08 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar vista frontal, seção transversal, armaduras longitudinais, estribos, cobrimento conceitual, esperas e conexão com vigas/fundações.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+9,EST-09,EST-09_Pilar-Parede_Conceitual.txt,PROMPT INDIVIDUAL — EST-09: Pilar-Parede Conceitual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-09: Pilar-Parede Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-09 — Pilar-Parede Conceitual
+
+Categoria: Pilares
+
+Objetivo da prancha:
+Elemento vertical alongado para estudo de rigidez e distribuição.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-09 — Pilar-Parede Conceitual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-09 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar vista frontal, seção transversal, armaduras longitudinais, estribos, cobrimento conceitual, esperas e conexão com vigas/fundações.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+10,EST-10,EST-10_Arranque_de_Pilar_em_Fundacao.txt,PROMPT INDIVIDUAL — EST-10: Arranque de Pilar em Fundação,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-10: Arranque de Pilar em Fundação
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-10 — Arranque de Pilar em Fundação
+
+Categoria: Pilares
+
+Objetivo da prancha:
+Esperas, bloco/sapata, cobrimento e transição fundação-pilar.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-10 — Arranque de Pilar em Fundação"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-10 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar vista frontal, seção transversal, armaduras longitudinais, estribos, cobrimento conceitual, esperas e conexão com vigas/fundações.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+11,EST-11,EST-11_Laje_Macica_Unidirecional.txt,PROMPT INDIVIDUAL — EST-11: Laje Maciça Unidirecional,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-11: Laje Maciça Unidirecional
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-11 — Laje Maciça Unidirecional
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Laje apoiada em duas direções predominantes com sentido de armação.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-11 — Laje Maciça Unidirecional"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-11 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+12,EST-12,EST-12_Laje_Macica_Bidirecional.txt,PROMPT INDIVIDUAL — EST-12: Laje Maciça Bidirecional,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-12: Laje Maciça Bidirecional
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-12 — Laje Maciça Bidirecional
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Painel com trabalho em duas direções, bordas e apoios.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-12 — Laje Maciça Bidirecional"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-12 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+13,EST-13,EST-13_Laje_Trelicada_com_Enchimento.txt,PROMPT INDIVIDUAL — EST-13: Laje Treliçada com Enchimento,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-13: Laje Treliçada com Enchimento
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-13 — Laje Treliçada com Enchimento
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Vigotas, enchimento, capa de concreto e apoios.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-13 — Laje Treliçada com Enchimento"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-13 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+14,EST-14,EST-14_Laje_em_Balanco_para_Sacada.txt,PROMPT INDIVIDUAL — EST-14: Laje em Balanço para Sacada,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-14: Laje em Balanço para Sacada
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-14 — Laje em Balanço para Sacada
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Balanço, engastamento conceitual e alerta de cálculo especializado.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-14 — Laje em Balanço para Sacada"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-14 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+15,EST-15,EST-15_Laje_com_Shaft_Tecnico.txt,PROMPT INDIVIDUAL — EST-15: Laje com Shaft Técnico,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-15: Laje com Shaft Técnico
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-15 — Laje com Shaft Técnico
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Abertura técnica, bordas reforçadas conceituais e compatibilização.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-15 — Laje com Shaft Técnico"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-15 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+16,EST-16,EST-16_Sapata_Isolada_com_Pilar_Central.txt,PROMPT INDIVIDUAL — EST-16: Sapata Isolada com Pilar Central,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-16: Sapata Isolada com Pilar Central
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-16 — Sapata Isolada com Pilar Central
+
+Categoria: Fundações
+
+Objetivo da prancha:
+Sapata, lastro, pilar, solo e critérios de estudo.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-16 — Sapata Isolada com Pilar Central"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-16 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar fundação, solo, pilar/parede apoiada, lastro, nível do terreno, necessidade de sondagem e transferência de cargas.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+17,EST-17,EST-17_Sapata_de_Divisa.txt,PROMPT INDIVIDUAL — EST-17: Sapata de Divisa,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-17: Sapata de Divisa
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-17 — Sapata de Divisa
+
+Categoria: Fundações
+
+Objetivo da prancha:
+Fundação em divisa e excentricidade conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-17 — Sapata de Divisa"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-17 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar fundação, solo, pilar/parede apoiada, lastro, nível do terreno, necessidade de sondagem e transferência de cargas.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+18,EST-18,EST-18_Sapata_Corrida_sob_Parede.txt,PROMPT INDIVIDUAL — EST-18: Sapata Corrida sob Parede,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-18: Sapata Corrida sob Parede
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-18 — Sapata Corrida sob Parede
+
+Categoria: Fundações
+
+Objetivo da prancha:
+Fundação linear sob alvenaria e corte esquemático.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-18 — Sapata Corrida sob Parede"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-18 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar fundação, solo, pilar/parede apoiada, lastro, nível do terreno, necessidade de sondagem e transferência de cargas.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+19,EST-19,EST-19_Radier_Residencial_Conceitual.txt,PROMPT INDIVIDUAL — EST-19: Radier Residencial Conceitual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-19: Radier Residencial Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-19 — Radier Residencial Conceitual
+
+Categoria: Fundações
+
+Objetivo da prancha:
+Laje de fundação, malha, juntas e regularização.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-19 — Radier Residencial Conceitual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-19 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar fundação, solo, pilar/parede apoiada, lastro, nível do terreno, necessidade de sondagem e transferência de cargas.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+20,EST-20,EST-20_Bloco_sobre_Estacas.txt,PROMPT INDIVIDUAL — EST-20: Bloco sobre Estacas,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-20: Bloco sobre Estacas
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-20 — Bloco sobre Estacas
+
+Categoria: Fundações
+
+Objetivo da prancha:
+Bloco, estacas, pilar e transferência de cargas.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-20 — Bloco sobre Estacas"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-20 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar fundação, solo, pilar/parede apoiada, lastro, nível do terreno, necessidade de sondagem e transferência de cargas.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+21,EST-21,EST-21_Muro_de_Divisa_com_Fundacao_Corrida.txt,PROMPT INDIVIDUAL — EST-21: Muro de Divisa com Fundação Corrida,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-21: Muro de Divisa com Fundação Corrida
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-21 — Muro de Divisa com Fundação Corrida
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Muro simples, fundação corrida, juntas e amarrações.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-21 — Muro de Divisa com Fundação Corrida"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-21 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+22,EST-22,EST-22_Muro_de_Arrimo_em_Concreto_Armado.txt,PROMPT INDIVIDUAL — EST-22: Muro de Arrimo em Concreto Armado,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-22: Muro de Arrimo em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-22 — Muro de Arrimo em Concreto Armado
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Corte do muro, base, empuxo e estabilidade conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-22 — Muro de Arrimo em Concreto Armado"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-22 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+23,EST-23,EST-23_Muro_de_Arrimo_com_Drenagem.txt,PROMPT INDIVIDUAL — EST-23: Muro de Arrimo com Drenagem,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-23: Muro de Arrimo com Drenagem
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-23 — Muro de Arrimo com Drenagem
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Sistema drenante, barbacãs, brita e manta geotêxtil.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-23 — Muro de Arrimo com Drenagem"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-23 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+24,EST-24,EST-24_Muro_com_Contrafortes.txt,PROMPT INDIVIDUAL — EST-24: Muro com Contrafortes,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-24: Muro com Contrafortes
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-24 — Muro com Contrafortes
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Muro alto com reforços verticais e leitura estrutural.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-24 — Muro com Contrafortes"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-24 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+25,EST-25,EST-25_Contencao_em_Terreno_Inclinado.txt,PROMPT INDIVIDUAL — EST-25: Contenção em Terreno Inclinado,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-25: Contenção em Terreno Inclinado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-25 — Contenção em Terreno Inclinado
+
+Categoria: Muros e contenções
+
+Objetivo da prancha:
+Corte conceitual de contenção e drenagem em talude.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-25 — Contenção em Terreno Inclinado"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-25 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar corte do muro, terreno, empuxo, fundação, drenagem, barbacãs e alertas de estabilidade.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+26,EST-26,EST-26_Escada_Reta_em_Concreto_Armado.txt,PROMPT INDIVIDUAL — EST-26: Escada Reta em Concreto Armado,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-26: Escada Reta em Concreto Armado
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-26 — Escada Reta em Concreto Armado
+
+Categoria: Elementos especiais
+
+Objetivo da prancha:
+Lance, patamar, apoios e armadura conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-26 — Escada Reta em Concreto Armado"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-26 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar geometria, apoios, cargas principais, cortes e riscos específicos do elemento.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+27,EST-27,EST-27_Escada_em_L_com_Patamar.txt,PROMPT INDIVIDUAL — EST-27: Escada em L com Patamar,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-27: Escada em L com Patamar
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-27 — Escada em L com Patamar
+
+Categoria: Elementos especiais
+
+Objetivo da prancha:
+Mudança de direção, patamar e apoios.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-27 — Escada em L com Patamar"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-27 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar geometria, apoios, cargas principais, cortes e riscos específicos do elemento.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+28,EST-28,EST-28_Marquise_em_Balanco.txt,PROMPT INDIVIDUAL — EST-28: Marquise em Balanço,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-28: Marquise em Balanço
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-28 — Marquise em Balanço
+
+Categoria: Elementos especiais
+
+Objetivo da prancha:
+Elemento em balanço e alerta de risco estrutural.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-28 — Marquise em Balanço"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-28 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar geometria, apoios, cargas principais, cortes e riscos específicos do elemento.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+29,EST-29,EST-29_Base_Estrutural_para_Caixa_d_Agua.txt,PROMPT INDIVIDUAL — EST-29: Base Estrutural para Caixa d'Água,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-29: Base Estrutural para Caixa d'Água
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-29 — Base Estrutural para Caixa d'Água
+
+Categoria: Elementos especiais
+
+Objetivo da prancha:
+Apoio, distribuição de cargas e elevação conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-29 — Base Estrutural para Caixa d'Água"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-29 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar geometria, apoios, cargas principais, cortes e riscos específicos do elemento.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+30,EST-30,EST-30_Reservatorio_Apoiado_Conceitual.txt,PROMPT INDIVIDUAL — EST-30: Reservatório Apoiado Conceitual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-30: Reservatório Apoiado Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-30 — Reservatório Apoiado Conceitual
+
+Categoria: Elementos especiais
+
+Objetivo da prancha:
+Base, paredes, impermeabilização e carregamento hidráulico.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-30 — Reservatório Apoiado Conceitual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-30 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar geometria, apoios, cargas principais, cortes e riscos específicos do elemento.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+31,EST-31,EST-31_Portico_Metalico_Simples.txt,PROMPT INDIVIDUAL — EST-31: Pórtico Metálico Simples,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-31: Pórtico Metálico Simples
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-31 — Pórtico Metálico Simples
+
+Categoria: Metálicas e madeira
+
+Objetivo da prancha:
+Colunas, viga, ligações e contraventamento conceitual.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-31 — Pórtico Metálico Simples"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-31 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar perfis, barras, ligações, apoios, contraventamentos e tabela de componentes.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+32,EST-32,EST-32_Viga_Metalica_com_Chapa_de_Ligacao.txt,PROMPT INDIVIDUAL — EST-32: Viga Metálica com Chapa de Ligação,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-32: Viga Metálica com Chapa de Ligação
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-32 — Viga Metálica com Chapa de Ligação
+
+Categoria: Metálicas e madeira
+
+Objetivo da prancha:
+Chapa, parafusos e ligação viga-pilar.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-32 — Viga Metálica com Chapa de Ligação"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-32 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar perfis, barras, ligações, apoios, contraventamentos e tabela de componentes.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+33,EST-33,EST-33_Pilar_Metalico_com_Base_Chumbada.txt,PROMPT INDIVIDUAL — EST-33: Pilar Metálico com Base Chumbada,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-33: Pilar Metálico com Base Chumbada
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-33 — Pilar Metálico com Base Chumbada
+
+Categoria: Metálicas e madeira
+
+Objetivo da prancha:
+Placa de base, chumbadores, graute e fundação.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-33 — Pilar Metálico com Base Chumbada"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-33 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar perfis, barras, ligações, apoios, contraventamentos e tabela de componentes.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+34,EST-34,EST-34_Tesoura_Metalica_para_Cobertura.txt,PROMPT INDIVIDUAL — EST-34: Tesoura Metálica para Cobertura,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-34: Tesoura Metálica para Cobertura
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-34 — Tesoura Metálica para Cobertura
+
+Categoria: Metálicas e madeira
+
+Objetivo da prancha:
+Banzos, diagonais, montantes, apoios e terças.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-34 — Tesoura Metálica para Cobertura"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-34 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar perfis, barras, ligações, apoios, contraventamentos e tabela de componentes.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+35,EST-35,EST-35_Estrutura_de_Madeira_para_Cobertura.txt,PROMPT INDIVIDUAL — EST-35: Estrutura de Madeira para Cobertura,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-35: Estrutura de Madeira para Cobertura
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-35 — Estrutura de Madeira para Cobertura
+
+Categoria: Metálicas e madeira
+
+Objetivo da prancha:
+Terças, caibros, ripas e apoios conceituais.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-35 — Estrutura de Madeira para Cobertura"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-35 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar perfis, barras, ligações, apoios, contraventamentos e tabela de componentes.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+36,EST-36,EST-36_Mapa_de_Fissuras_em_Viga.txt,PROMPT INDIVIDUAL — EST-36: Mapa de Fissuras em Viga,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-36: Mapa de Fissuras em Viga
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-36 — Mapa de Fissuras em Viga
+
+Categoria: Patologias
+
+Objetivo da prancha:
+Registro visual de fissuras, classificação inicial e alerta técnico.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-36 — Mapa de Fissuras em Viga"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-36 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar mapa visual do problema, localização, sintomas, registro fotográfico simulado, severidade preliminar e recomendação de avaliação técnica.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+37,EST-37,EST-37_Trinca_em_Pilar_-_Registro_Visual.txt,PROMPT INDIVIDUAL — EST-37: Trinca em Pilar - Registro Visual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-37: Trinca em Pilar - Registro Visual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-37 — Trinca em Pilar - Registro Visual
+
+Categoria: Patologias
+
+Objetivo da prancha:
+Mapa de danos em pilar e ficha de observação.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-37 — Trinca em Pilar - Registro Visual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-37 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar mapa visual do problema, localização, sintomas, registro fotográfico simulado, severidade preliminar e recomendação de avaliação técnica.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+38,EST-38,EST-38_Recalque_Diferencial_Conceitual.txt,PROMPT INDIVIDUAL — EST-38: Recalque Diferencial Conceitual,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-38: Recalque Diferencial Conceitual
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-38 — Recalque Diferencial Conceitual
+
+Categoria: Patologias
+
+Objetivo da prancha:
+Deslocamentos, fissuras associadas e necessidade de investigação.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-38 — Recalque Diferencial Conceitual"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-38 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar mapa visual do problema, localização, sintomas, registro fotográfico simulado, severidade preliminar e recomendação de avaliação técnica.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+39,EST-39,EST-39_Corrosao_de_Armadura_em_Laje.txt,PROMPT INDIVIDUAL — EST-39: Corrosão de Armadura em Laje,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-39: Corrosão de Armadura em Laje
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-39 — Corrosão de Armadura em Laje
+
+Categoria: Patologias
+
+Objetivo da prancha:
+Desplacamento, ferragem exposta e registro de risco.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-39 — Corrosão de Armadura em Laje"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-39 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar mapa visual do problema, localização, sintomas, registro fotográfico simulado, severidade preliminar e recomendação de avaliação técnica.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+40,EST-40,EST-40_Checklist_de_Vistoria_Estrutural_Inicial.txt,PROMPT INDIVIDUAL — EST-40: Checklist de Vistoria Estrutural Inicial,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-40: Checklist de Vistoria Estrutural Inicial
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-40 — Checklist de Vistoria Estrutural Inicial
+
+Categoria: Patologias
+
+Objetivo da prancha:
+Roteiro não pericial para observação preliminar.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-40 — Checklist de Vistoria Estrutural Inicial"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-40 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar mapa visual do problema, localização, sintomas, registro fotográfico simulado, severidade preliminar e recomendação de avaliação técnica.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+41,EST-41,EST-41_Compatibilizacao_Pilar_x_Arquitetura.txt,PROMPT INDIVIDUAL — EST-41: Compatibilização Pilar x Arquitetura,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-41: Compatibilização Pilar x Arquitetura
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-41 — Compatibilização Pilar x Arquitetura
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Conflito com portas, vagas, circulação e layout.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-41 — Compatibilização Pilar x Arquitetura"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-41 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+42,EST-42,EST-42_Compatibilizacao_Viga_x_Forro.txt,PROMPT INDIVIDUAL — EST-42: Compatibilização Viga x Forro,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-42: Compatibilização Viga x Forro
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-42 — Compatibilização Viga x Forro
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Altura livre, passagem de instalações e interferências.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-42 — Compatibilização Viga x Forro"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-42 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+43,EST-43,EST-43_Shaft_Tecnico_atravessando_Laje.txt,PROMPT INDIVIDUAL — EST-43: Shaft Técnico atravessando Laje,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-43: Shaft Técnico atravessando Laje
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-43 — Shaft Técnico atravessando Laje
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Abertura, borda de laje e passagem vertical.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-43 — Shaft Técnico atravessando Laje"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-43 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+44,EST-44,EST-44_Interferencia_Hidraulica_em_Viga.txt,PROMPT INDIVIDUAL — EST-44: Interferência Hidráulica em Viga,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-44: Interferência Hidráulica em Viga
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-44 — Interferência Hidráulica em Viga
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Furo indevido, rota alternativa e alerta técnico.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-44 — Interferência Hidráulica em Viga"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-44 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+45,EST-45,EST-45_Mapa_de_Conflitos_Estruturais.txt,PROMPT INDIVIDUAL — EST-45: Mapa de Conflitos Estruturais,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-45: Mapa de Conflitos Estruturais
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-45 — Mapa de Conflitos Estruturais
+
+Categoria: Compatibilização
+
+Objetivo da prancha:
+Quadro de conflitos entre disciplinas.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-45 — Mapa de Conflitos Estruturais"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-45 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar sobreposição conceitual entre disciplinas, pontos de conflito, causa provável, consequência e ação recomendada.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+46,EST-46,EST-46_Planta_Estrutural_Residencial_Modelo.txt,PROMPT INDIVIDUAL — EST-46: Planta Estrutural Residencial Modelo,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-46: Planta Estrutural Residencial Modelo
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-46 — Planta Estrutural Residencial Modelo
+
+Categoria: Pranchas finais
+
+Objetivo da prancha:
+Planta integrada de pilares, vigas, lajes e fundações.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-46 — Planta Estrutural Residencial Modelo"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-46 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Organizar informações integradas do módulo, com resumo técnico, quadros, tabelas e notas gerais.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+47,EST-47,EST-47_Cortes_Estruturais_Integrados.txt,PROMPT INDIVIDUAL — EST-47: Cortes Estruturais Integrados,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-47: Cortes Estruturais Integrados
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-47 — Cortes Estruturais Integrados
+
+Categoria: Pranchas finais
+
+Objetivo da prancha:
+Cortes mostrando estrutura do solo à cobertura.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-47 — Cortes Estruturais Integrados"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-47 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Organizar informações integradas do módulo, com resumo técnico, quadros, tabelas e notas gerais.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+48,EST-48,EST-48_Detalhamento_Geral_de_Elementos_Estruturais.txt,PROMPT INDIVIDUAL — EST-48: Detalhamento Geral de Elementos Estruturais,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-48: Detalhamento Geral de Elementos Estruturais
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-48 — Detalhamento Geral de Elementos Estruturais
+
+Categoria: Pranchas finais
+
+Objetivo da prancha:
+Prancha resumo com detalhes típicos didáticos.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-48 — Detalhamento Geral de Elementos Estruturais"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-48 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Organizar informações integradas do módulo, com resumo técnico, quadros, tabelas e notas gerais.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+49,EST-49,EST-49_Quadro_de_Quantitativos_Estruturais.txt,PROMPT INDIVIDUAL — EST-49: Quadro de Quantitativos Estruturais,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-49: Quadro de Quantitativos Estruturais
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-49 — Quadro de Quantitativos Estruturais
+
+Categoria: Pranchas finais
+
+Objetivo da prancha:
+Quadro de concreto, aço, forma e observações.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-49 — Quadro de Quantitativos Estruturais"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-49 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Organizar informações integradas do módulo, com resumo técnico, quadros, tabelas e notas gerais.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."
+50,EST-50,EST-50_Dossie_Estrutural_Conceitual_para_Estudo.txt,PROMPT INDIVIDUAL — EST-50: Dossiê Estrutural Conceitual para Estudo,"ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: ""Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-50: Dossiê Estrutural Conceitual para Estudo
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-50 — Dossiê Estrutural Conceitual para Estudo
+
+Categoria: Pranchas finais
+
+Objetivo da prancha:
+Documento consolidado para apresentação educacional.
+
+Conteúdo obrigatório:
+1. Título técnico: ""EST-50 — Dossiê Estrutural Conceitual para Estudo"".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-50 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Organizar informações integradas do módulo, com resumo técnico, quadros, tabelas e notas gerais.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+""Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica.""
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado."

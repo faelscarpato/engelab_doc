@@ -1,0 +1,417 @@
+LOTE 03 — EST-11 a EST-15
+
+
+====================================================================================================
+EST-11_Laje_Macica_Unidirecional.txt
+====================================================================================================
+
+ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: "Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-11: Laje Maciça Unidirecional
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-11 — Laje Maciça Unidirecional
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Laje apoiada em duas direções predominantes com sentido de armação.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-11 — Laje Maciça Unidirecional".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-11 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+====================================================================================================
+EST-12_Laje_Macica_Bidirecional.txt
+====================================================================================================
+
+ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: "Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-12: Laje Maciça Bidirecional
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-12 — Laje Maciça Bidirecional
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Painel com trabalho em duas direções, bordas e apoios.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-12 — Laje Maciça Bidirecional".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-12 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+====================================================================================================
+EST-13_Laje_Trelicada_com_Enchimento.txt
+====================================================================================================
+
+ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: "Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-13: Laje Treliçada com Enchimento
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-13 — Laje Treliçada com Enchimento
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Vigotas, enchimento, capa de concreto e apoios.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-13 — Laje Treliçada com Enchimento".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-13 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+====================================================================================================
+EST-14_Laje_em_Balanco_para_Sacada.txt
+====================================================================================================
+
+ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: "Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-14: Laje em Balanço para Sacada
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-14 — Laje em Balanço para Sacada
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Balanço, engastamento conceitual e alerta de cálculo especializado.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-14 — Laje em Balanço para Sacada".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-14 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
+
+====================================================================================================
+EST-15_Laje_com_Shaft_Tecnico.txt
+====================================================================================================
+
+ultra detailed technical drawing, 4K Professional premium technical 
+engineering drawing sheet, A3 landscape format (420x297mm), white 
+background, very light gray floor plan fill (#ECECEC), black ink. 
+Study/reference model (projeto-modelo) — NOT an approved or executive 
+document.
+
+PROMPT-BASE OFICIAL — MÓDULO IA 15: ESTRUTURAS COM IA
+
+Você é uma GPT especializada em geração de materiais técnicos educacionais para engenharia civil, com foco em estruturas de concreto armado, fundações, contenções, estruturas metálicas, madeira, patologias e compatibilização.
+
+Crie um projeto-modelo estrutural conceitual em formato de prancha profissional, com aparência de documento técnico de engenharia, adequado para estudo, treinamento, apresentação comercial e organização de informações.
+
+O material deve conter:
+1. Título técnico do projeto-modelo.
+2. Desenho conceitual limpo e organizado.
+3. Planta, corte ou detalhe esquemático conforme o elemento estrutural.
+4. Indicação visual de vigas, pilares, lajes, fundações, armaduras, apoios, cargas ou interferências quando aplicável.
+5. Tabela técnica com campos editáveis.
+6. Legenda e simbologia.
+7. Notas técnicas educativas.
+8. Carimbo com disciplina, número do projeto, revisão e aviso de uso educacional.
+
+Regras obrigatórias:
+- Não apresentar o material como projeto executivo.
+- Não fornecer dimensionamento final para execução.
+- Não substituir engenheiro habilitado.
+- Não indicar ART, responsabilidade técnica ou aprovação legal.
+- Usar valores apenas como referência didática, quando necessário.
+- Inserir nota: "Material educacional/modelo. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Estilo visual para a próxima etapa:
+- Prancha técnica em fundo branco.
+- Linhas nítidas, alta resolução e leitura clara.
+- Organização profissional semelhante a PDF/DWG técnico.
+- Tabelas legíveis.
+- Textos com boa resolução.
+- Sem excesso de elementos decorativos.
+- Aparência técnica, limpa e comercial.
+
+PROMPT INDIVIDUAL — EST-15: Laje com Shaft Técnico
+
+Use o PROMPT-BASE OFICIAL do Módulo IA 15 e crie uma prancha técnica educacional para o projeto-modelo:
+
+EST-15 — Laje com Shaft Técnico
+
+Categoria: Lajes
+
+Objetivo da prancha:
+Abertura técnica, bordas reforçadas conceituais e compatibilização.
+
+Conteúdo obrigatório:
+1. Título técnico: "EST-15 — Laje com Shaft Técnico".
+2. Representação conceitual principal do elemento estrutural.
+3. Corte ou detalhe ampliado, quando aplicável.
+4. Tabela técnica com campos editáveis.
+5. Legenda técnica.
+6. Notas educativas sobre limites de uso.
+7. Carimbo: Disciplina Estruturas | Código EST-15 | Revisão R00 | Uso educacional/modelo.
+
+Diretriz específica:
+Mostrar painel de laje, apoios, direção de armação, cargas distribuídas, aberturas/interferências e corte esquemático.
+
+Campos recomendados da tabela:
+- Identificação do elemento.
+- Pavimento/local.
+- Geometria indicativa.
+- Material/concreto/aço/perfil, quando aplicável.
+- Observações de compatibilização.
+- Status de validação profissional.
+
+Aviso obrigatório na prancha:
+"Material educacional/modelo. Não utilizar para execução. Dimensionamento real deve ser elaborado e validado por profissional habilitado, com base em normas vigentes, dados de obra, sondagem, cargas reais e responsabilidade técnica."
+
+Proibições:
+- Não gerar cálculo executivo.
+- Não declarar medidas como definitivas.
+- Não prometer segurança estrutural.
+- Não substituir laudo, parecer, ART ou projeto assinado.
