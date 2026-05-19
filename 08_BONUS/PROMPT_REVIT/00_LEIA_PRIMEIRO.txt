@@ -1,0 +1,12 @@
+PROMPT PACK REVIT IA — STARTER
+
+Arquivos incluídos:
+1. 01_COMECE_AQUI.pdf
+2. 02_PROMPT_BASE_UNIVERSAL.txt
+3. 03_30_PROMPTS_REVIT_BIM.txt
+4. 04_CHECKLISTS_REVIT_BIM.pdf
+5. 05_EXEMPLO_PREENCHIDO_RESIDENCIA_80M2.pdf
+6. 06_AVISO_TECNICO_DE_USO.pdf
+
+Aviso técnico:
+Material visual/conceitual para estudo, apresentação, organização BIM e compatibilização preliminar. Não substitui projeto executivo, cálculo, ART/RRT, CREA/CAU ou validação por profissional habilitado. Todo projeto real deve ser revisado por arquiteto, engenheiro, coordenador BIM ou profissional responsável.

@@ -1,0 +1,431 @@
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 36 - Água fria residencial 70 m²
+Disciplina: Hidrossanitário
+Nível: Básico
+Uso principal: Pontos e rede simples
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Água fria residencial 70 m²”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta com rede de água fria, pontos de consumo, alimentação para cozinha, banheiro, área de serviço, caixa d’água, barrilete e isométrico.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 37 - Água fria residencial 100 m²
+Disciplina: Hidrossanitário
+Nível: Básico/intermediário
+Uso principal: Rede principal e ramais
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Água fria residencial 100 m²”.
+
+CONTEÚDO OBRIGATÓRIO:
+Rede principal, ramais para banheiro social, suíte, cozinha, lavanderia e área externa, caixa d’água, registros, legenda e isométrico.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 38 - Água quente residencial
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Água fria/quente
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Água quente residencial”.
+
+CONTEÚDO OBRIGATÓRIO:
+Tubulação de água quente, pontos de chuveiros/lavatórios/cozinha, aquecedor a definir, água fria/quente diferenciadas, isométrico e notas.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 39 - Esgoto sanitário residencial
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Ramais e caixas
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Esgoto sanitário residencial”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta de esgoto, ramais de banheiro, cozinha e serviço, caixas de inspeção, caixa de gordura, sentido de fluxo, conexões conceituais e legenda.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 40 - Ventilação sanitária
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Tubo ventilador e corte
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Ventilação sanitária”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta com ramais de ventilação, tubo ventilador, ligação com ramais de esgoto, subida até cobertura, corte esquemático e legenda.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 41 - Projeto hidrossanitário de sobrado
+Disciplina: Hidrossanitário
+Nível: Avançado
+Uso principal: Prumadas e pavimentos
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Projeto hidrossanitário de sobrado”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta hidráulica térreo/superior, prumadas de água e esgoto, banheiro superior, cozinha térrea, área de serviço, isométrico e quadro.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 42 - Cozinha e área de serviço detalhadas
+Disciplina: Hidrossanitário
+Nível: Básico
+Uso principal: Pontos e detalhe ampliado
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Cozinha e área de serviço detalhadas”.
+
+CONTEÚDO OBRIGATÓRIO:
+Pontos de água fria e esgoto, pia, tanque, máquina de lavar, caixa de gordura, ramais, conexões, vista de parede hidráulica e legenda.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 43 - Banheiro social completo
+Disciplina: Hidrossanitário
+Nível: Básico/intermediário
+Uso principal: Planta e elevação hidráulica
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Banheiro social completo”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta ampliada de banheiro, lavatório, vaso, chuveiro, ralos, água fria, esgoto, ventilação, elevação da parede hidráulica e notas.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 44 - Banheiro suíte completo
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Água quente/fria e esgoto
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Banheiro suíte completo”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta ampliada, bancada, vaso, box/chuveiro, água quente/fria se aplicável, esgoto, ventilação e detalhe vertical da parede hidráulica.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 45 - Caixa d’água e barrilete residencial
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Reservatório e barrilete
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Caixa d’água e barrilete residencial”.
+
+CONTEÚDO OBRIGATÓRIO:
+Caixa d’água superior, alimentação, saída, extravasor, limpeza, registro geral, barrilete simplificado, corte e legenda.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 46 - Rede de esgoto com caixas de inspeção
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Rede externa
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Rede de esgoto com caixas de inspeção”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta externa, caixas CI-1, CI-2, CI-3, caixa de gordura, sentido de fluxo, destinação a definir, legenda, quadro e notas.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 47 - Projeto hidráulico para edícula gourmet
+Disciplina: Hidrossanitário
+Nível: Básico/intermediário
+Uso principal: Pia, lavabo e gordura
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Projeto hidráulico para edícula gourmet”.
+
+CONTEÚDO OBRIGATÓRIO:
+Pia gourmet, bancada/churrasqueira, lavabo se aplicável, água fria, esgoto, caixa de gordura, rede até ligação, legenda e isométrico.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 48 - Projeto hidrossanitário de loja pequena
+Disciplina: Hidrossanitário
+Nível: Intermediário
+Uso principal: Copa e banheiro
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Projeto hidrossanitário de loja pequena”.
+
+CONTEÚDO OBRIGATÓRIO:
+Banheiro simples/acessível conceitual, copa pequena, água fria, esgoto, ventilação, caixa de inspeção, legenda e quadro de pontos.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 49 - Isométrico hidráulico residencial
+Disciplina: Hidrossanitário
+Nível: Avançado
+Uso principal: Isométrico completo
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Isométrico hidráulico residencial”.
+
+CONTEÚDO OBRIGATÓRIO:
+Caixa d’água, barrilete, prumadas, ramais para banheiro/cozinha/serviço, pontos de consumo, registros, água fria/quente diferenciadas e legenda.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
+
+
+---
+
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 50 - Compatibilização hidráulica com arquitetura
+Disciplina: Hidrossanitário
+Nível: Avançado
+Uso principal: Interferências e ajustes
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Compatibilização hidráulica com arquitetura”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta arquitetônica em baixa opacidade, pontos hidráulicos sobrepostos, paredes hidráulicas, interferências com estrutura, ajustes, legenda e quadro.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.

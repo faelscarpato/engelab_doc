@@ -1,0 +1,667 @@
+PROMPT PACK REVIT IA — STARTER
+03_30_PROMPTS_REVIT_BIM
+
+Aviso técnico:
+Material visual/conceitual para estudo, apresentação, organização BIM e compatibilização preliminar. Não substitui projeto executivo, cálculo, ART/RRT, CREA/CAU ou validação por profissional habilitado. Todo projeto real deve ser revisado por arquiteto, engenheiro, coordenador BIM ou profissional responsável.
+
+PROMPT 01 — ESTRATÉGIA DE MODELAGEM INICIAL
+Categoria: Modelagem arquitetônica
+
+Usando o prompt-base universal, crie uma estratégia de modelagem arquitetônica no Revit para um projeto de [TIPO DE PROJETO] com aproximadamente [ÁREA] m².
+
+Inclua:
+- organização inicial do arquivo;
+- níveis;
+- eixos;
+- paredes;
+- pisos;
+- cobertura;
+- portas e janelas;
+- ambientes;
+- materiais;
+- vistas necessárias;
+- pranchas sugeridas;
+- sequência recomendada de modelagem;
+- checklist de revisão.
+
+Trate como estudo BIM conceitual para organização e apresentação, sem afirmar que o resultado é projeto executivo final.
+
+--------------------------------------------------------------------------------
+
+PROMPT 02 — PLANTA BAIXA ORGANIZADA
+Categoria: Modelagem arquitetônica
+
+Crie um roteiro para montar uma planta baixa arquitetônica no Revit para [TIPO DE PROJETO].
+
+Ambientes previstos:
+[LISTAR AMBIENTES]
+
+Inclua:
+- paredes internas e externas;
+- portas e janelas;
+- cotas principais;
+- nomes de ambientes;
+- áreas;
+- mobiliário conceitual;
+- níveis de detalhe;
+- padrão visual para prancha;
+- organização de vista;
+- checklist de leitura.
+
+Não trate como projeto aprovado. Indique validações necessárias por profissional habilitado.
+
+--------------------------------------------------------------------------------
+
+PROMPT 03 — CORTES ARQUITETÔNICOS
+Categoria: Modelagem arquitetônica
+
+Crie um roteiro para gerar cortes arquitetônicos no Revit a partir de um modelo de [TIPO DE PROJETO].
+
+Inclua:
+- quais cortes criar;
+- onde posicionar as linhas de corte;
+- escala sugerida;
+- espessura de linhas;
+- cotas verticais;
+- níveis;
+- chamadas;
+- materiais aparentes;
+- relação com planta baixa;
+- organização em prancha;
+- checklist de revisão.
+
+Objetivo: material de estudo, apresentação e compatibilização preliminar.
+
+--------------------------------------------------------------------------------
+
+PROMPT 04 — FACHADAS A PARTIR DO MODELO
+Categoria: Modelagem arquitetônica
+
+Crie um roteiro para gerar fachadas arquitetônicas no Revit a partir de um modelo de [TIPO DE PROJETO].
+
+Inclua:
+- configuração de vistas de elevação;
+- controle de escala;
+- espessura de linhas;
+- materiais aparentes;
+- sombras;
+- cotas verticais;
+- níveis;
+- chamadas;
+- organização em prancha A3;
+- revisão visual.
+
+Objetivo: material para apresentação, estudo e compatibilização preliminar.
+
+--------------------------------------------------------------------------------
+
+PROMPT 05 — REVISÃO DO MODELO ARQUITETÔNICO
+Categoria: Modelagem arquitetônica
+
+Crie um checklist para revisar um modelo arquitetônico no Revit antes de montar as pranchas.
+
+Verifique:
+- níveis e eixos;
+- paredes desconectadas;
+- pisos sobrepostos;
+- portas e janelas fora de padrão;
+- ambientes não fechados;
+- nomes de ambientes;
+- materiais sem preenchimento;
+- famílias genéricas demais;
+- vistas desorganizadas;
+- elementos ocultos indevidamente;
+- inconsistências entre planta, corte e fachada.
+
+Organize em tabela com as colunas: Item | O que verificar | Como corrigir | Prioridade | Validação necessária.
+
+--------------------------------------------------------------------------------
+
+PROMPT 06 — LISTA DE FAMÍLIAS NECESSÁRIAS
+Categoria: Famílias e componentes
+
+Liste as famílias Revit necessárias para um projeto [TIPO DE PROJETO] de aproximadamente [ÁREA] m².
+
+Organize por categoria:
+- portas;
+- janelas;
+- mobiliário;
+- louças;
+- metais;
+- luminárias;
+- tomadas;
+- vegetação;
+- elementos estruturais;
+- elementos hidrossanitários.
+
+Para cada família, indique:
+- nome sugerido;
+- categoria Revit;
+- parâmetros úteis;
+- nível de detalhe recomendado;
+- observações de uso;
+- risco de usar família genérica ou pesada.
+
+--------------------------------------------------------------------------------
+
+PROMPT 07 — BRIEFING DE FAMÍLIA PARAMÉTRICA
+Categoria: Famílias e componentes
+
+Crie um briefing técnico para desenvolver uma família paramétrica Revit de [ELEMENTO].
+
+A família deve conter:
+- categoria correta;
+- parâmetros de largura, altura e profundidade;
+- materiais;
+- visibilidade por nível de detalhe;
+- parâmetros de identificação;
+- parâmetros compartilhados, se necessário;
+- cuidados de modelagem;
+- checklist de teste no projeto.
+
+Não gere código final. Entregue apenas briefing e estrutura de criação para estudo e organização.
+
+--------------------------------------------------------------------------------
+
+PROMPT 08 — REVISÃO DE FAMÍLIAS CARREGADAS
+Categoria: Famílias e componentes
+
+Crie um checklist para revisar famílias carregadas em um modelo Revit de [TIPO DE PROJETO].
+
+Verifique:
+- nome da família;
+- categoria correta;
+- parâmetros essenciais;
+- peso do arquivo;
+- excesso de detalhes 3D;
+- materiais aplicados;
+- visibilidade em planta, corte e 3D;
+- comportamento em tabela;
+- duplicidade de tipos;
+- compatibilidade com o padrão do projeto.
+
+Organize em tabela com: Família | Problema encontrado | Impacto | Ação recomendada | Status.
+
+--------------------------------------------------------------------------------
+
+PROMPT 09 — PADRONIZAÇÃO DE PARÂMETROS BIM
+Categoria: Parâmetros BIM
+
+Crie uma proposta de padronização de parâmetros BIM para um modelo Revit de [TIPO DE PROJETO].
+
+Inclua:
+- identificação;
+- fase;
+- disciplina;
+- ambiente;
+- código do elemento;
+- material;
+- observações técnicas;
+- revisão;
+- responsável por validação;
+- status do elemento.
+
+Organize em tabela com:
+Nome do parâmetro | Tipo | Aplicação | Exemplo | Observação.
+
+Trate como proposta preliminar a ser adaptada ao padrão do escritório ou contratante.
+
+--------------------------------------------------------------------------------
+
+PROMPT 10 — PADRÃO DE NOMENCLATURA
+Categoria: Parâmetros BIM
+
+Crie um padrão de nomenclatura para um projeto Revit [RESIDENCIAL / COMERCIAL / INTERIORES / INSTITUCIONAL].
+
+Inclua padrões para:
+- nomes de vistas;
+- nomes de pranchas;
+- famílias;
+- tipos de paredes;
+- tipos de pisos;
+- materiais;
+- filtros;
+- templates de vista;
+- arquivos exportados em PDF, DWG e IFC.
+
+Use padrão profissional, claro, curto e fácil de aplicar.
+
+Entregue também 10 exemplos de nomes corretos e 10 exemplos de nomes ruins com correção sugerida.
+
+--------------------------------------------------------------------------------
+
+PROMPT 11 — LISTA DE PRANCHAS CONCEITUAIS
+Categoria: Pranchas
+
+Crie uma lista de pranchas para documentação conceitual no Revit de um projeto [TIPO] com área aproximada de [ÁREA] m².
+
+Separe em:
+- arquitetura;
+- estrutura conceitual;
+- elétrica conceitual;
+- hidrossanitário conceitual;
+- compatibilização;
+- apresentação 3D.
+
+Para cada prancha, informe:
+Código | Nome da prancha | Conteúdo | Escala sugerida | Observações.
+
+Não inclua assinatura técnica, ART, RRT, CREA ou CAU.
+
+--------------------------------------------------------------------------------
+
+PROMPT 12 — PRANCHA A3 PREMIUM
+Categoria: Pranchas
+
+Crie um padrão de prancha A3 horizontal para documentação Revit de estudo/apresentação.
+
+Inclua:
+- título;
+- subtítulo;
+- área principal da vista;
+- legenda;
+- notas técnicas;
+- quadro de dados;
+- carimbo simples;
+- escala indicada/conceitual;
+- revisão R00;
+- aviso técnico;
+- padrão visual limpo com linhas grafite e detalhes em azul técnico.
+
+Não inserir assinatura técnica, CREA, CAU, ART ou RRT.
+
+--------------------------------------------------------------------------------
+
+PROMPT 13 — CHECKLIST ANTES DE EXPORTAR PDF
+Categoria: Pranchas
+
+Crie um checklist de revisão para exportar uma prancha Revit em PDF.
+
+Verificar:
+- escala;
+- cotas;
+- nomes de ambientes;
+- espessura de linhas;
+- legenda;
+- textos legíveis;
+- carimbo;
+- revisão;
+- notas técnicas;
+- vista posicionada corretamente;
+- ausência de elementos ocultos indevidos;
+- compatibilização básica.
+
+Organize como checklist operacional com status:
+Concluído | Ajustar | Não se aplica.
+
+--------------------------------------------------------------------------------
+
+PROMPT 14 — ORGANIZAÇÃO DE VISTAS NA PRANCHA
+Categoria: Pranchas
+
+Crie um roteiro para organizar vistas em uma prancha Revit de [TIPO DE PROJETO].
+
+Inclua:
+- hierarquia visual;
+- posição da vista principal;
+- posição de cortes e fachadas;
+- uso de legendas;
+- uso de detalhes ampliados;
+- alinhamento de vistas;
+- escala sugerida;
+- margens;
+- leitura da prancha;
+- erros comuns de diagramação.
+
+Objetivo: melhorar clareza e apresentação, sem tratar a prancha como documentação executiva final.
+
+--------------------------------------------------------------------------------
+
+PROMPT 15 — NOTAS TÉCNICAS E LEGENDAS
+Categoria: Pranchas
+
+Crie um conjunto de notas técnicas e legendas para uma prancha Revit de estudo/apresentação de [TIPO DE PROJETO].
+
+Inclua:
+- notas gerais;
+- legenda de materiais;
+- legenda de símbolos;
+- observações de escala;
+- aviso de validação profissional;
+- observações de compatibilização preliminar;
+- texto curto para carimbo.
+
+Evite linguagem que prometa aprovação legal, execução de obra ou responsabilidade técnica.
+
+--------------------------------------------------------------------------------
+
+PROMPT 16 — ROTEIRO DE INTERFERÊNCIAS
+Categoria: Compatibilização
+
+Crie um roteiro de compatibilização preliminar no Revit para verificar conflitos entre arquitetura, estrutura, elétrica e hidrossanitário.
+
+Inclua:
+- o que verificar em planta;
+- o que verificar em corte;
+- o que verificar em 3D;
+- uso de filtros de vista;
+- uso de cores por disciplina;
+- interferências comuns;
+- tabela de conflitos;
+- prioridade de correção;
+- checklist final.
+
+Trate como compatibilização preliminar para estudo e revisão técnica.
+
+--------------------------------------------------------------------------------
+
+PROMPT 17 — MATRIZ DE CONFLITOS BIM
+Categoria: Compatibilização
+
+Crie uma matriz de conflitos BIM para um projeto [TIPO DE PROJETO] no Revit.
+
+Colunas:
+ID do conflito | Disciplina 1 | Disciplina 2 | Local | Descrição | Gravidade | Ação sugerida | Responsável | Status.
+
+Inclua exemplos de conflitos:
+- tubulação cruzando viga;
+- tomada em área molhada;
+- shaft insuficiente;
+- janela interferindo em viga;
+- prumada desalinhada;
+- luminária em conflito com forro.
+
+Indique que a matriz é preliminar e precisa de revisão por profissional responsável.
+
+--------------------------------------------------------------------------------
+
+PROMPT 18 — REVISÃO POR CORES E FILTROS
+Categoria: Compatibilização
+
+Crie um roteiro para configurar uma vista de compatibilização visual no Revit usando cores e filtros por disciplina.
+
+Inclua:
+- categorias a destacar;
+- cores sugeridas por disciplina;
+- filtros de vista;
+- templates de vista;
+- organização do navegador;
+- cuidados para não ocultar elementos importantes;
+- checklist de revisão.
+
+Objetivo: facilitar análise visual preliminar de conflitos em estudo BIM.
+
+--------------------------------------------------------------------------------
+
+PROMPT 19 — CHECKLIST DE SHAFT E PRUMADAS
+Categoria: Compatibilização
+
+Crie um checklist para revisar shafts, prumadas e áreas técnicas em um modelo Revit de [TIPO DE PROJETO].
+
+Verifique:
+- alinhamento vertical;
+- espaço mínimo conceitual;
+- passagem de tubulações;
+- interferência com vigas;
+- interferência com esquadrias;
+- acesso para manutenção;
+- relação com banheiros, cozinhas e áreas técnicas;
+- compatibilização com estrutura;
+- necessidade de validação por especialista.
+
+Organize em tabela com Item | Verificação | Risco | Ação sugerida | Responsável.
+
+--------------------------------------------------------------------------------
+
+PROMPT 20 — RELATÓRIO PRELIMINAR DE PENDÊNCIAS
+Categoria: Compatibilização
+
+Crie um modelo de relatório preliminar de pendências BIM para um projeto [TIPO DE PROJETO].
+
+Inclua:
+- resumo do modelo analisado;
+- disciplinas envolvidas;
+- principais pendências;
+- conflitos críticos;
+- conflitos médios;
+- dúvidas para validação profissional;
+- próximos passos;
+- tabela de responsáveis;
+- status de revisão.
+
+O relatório deve ter tom técnico, claro e orientado à ação, sem declarar aprovação final do projeto.
+
+--------------------------------------------------------------------------------
+
+PROMPT 21 — ESTRUTURA DE TABELAS DE QUANTITATIVOS
+Categoria: Quantitativos
+
+Crie uma estrutura de tabelas de quantitativos no Revit para [TIPO DE PROJETO].
+
+Incluir:
+- paredes;
+- pisos;
+- portas;
+- janelas;
+- ambientes;
+- louças;
+- luminárias;
+- tomadas;
+- materiais principais.
+
+Para cada tabela, indique:
+Categoria Revit | Campos necessários | Filtros | Agrupamento | Observações.
+
+Trate os quantitativos como estimativos e dependentes da qualidade do modelo.
+
+--------------------------------------------------------------------------------
+
+PROMPT 22 — CONFERÊNCIA DE QUANTITATIVOS
+Categoria: Quantitativos
+
+Crie um checklist para revisar quantitativos extraídos do Revit.
+
+Verificar:
+- elementos duplicados;
+- famílias sem parâmetro;
+- tipos mal nomeados;
+- paredes sobrepostas;
+- ambientes não fechados;
+- materiais sem preenchimento;
+- filtros incorretos;
+- unidades;
+- perdas não consideradas;
+- necessidade de validação com projeto executivo.
+
+Organize em tabela com Item | Problema possível | Como identificar | Como corrigir | Validação necessária.
+
+--------------------------------------------------------------------------------
+
+PROMPT 23 — TABELA DE AMBIENTES
+Categoria: Quantitativos
+
+Crie uma estrutura de tabela de ambientes no Revit para um projeto [TIPO DE PROJETO].
+
+Inclua campos como:
+- número do ambiente;
+- nome do ambiente;
+- pavimento;
+- área;
+- perímetro;
+- acabamento de piso;
+- acabamento de parede;
+- acabamento de teto;
+- observações;
+- status de revisão.
+
+Indique filtros, agrupamentos, cuidados e validações necessárias para áreas e nomes.
+
+--------------------------------------------------------------------------------
+
+PROMPT 24 — TABELA DE ESQUADRIAS
+Categoria: Quantitativos
+
+Crie uma estrutura de tabela de esquadrias no Revit para portas e janelas de um projeto [TIPO DE PROJETO].
+
+Inclua:
+- código;
+- tipo;
+- largura;
+- altura;
+- peitoril, quando aplicável;
+- material;
+- ambiente;
+- quantidade;
+- observações;
+- status de validação.
+
+Indique cuidados para não confundir estimativa de estudo com especificação executiva final.
+
+--------------------------------------------------------------------------------
+
+PROMPT 25 — PREPARAR MODELO PARA RENDER
+Categoria: Render e apresentação
+
+Crie um checklist para preparar um modelo Revit para renderização arquitetônica.
+
+Inclua:
+- limpeza do modelo;
+- materiais;
+- iluminação natural;
+- iluminação artificial;
+- câmeras;
+- vegetação;
+- entorno;
+- mobiliário;
+- configuração de vistas;
+- exportação para Enscape, Lumion, Twinmotion ou imagem;
+- cuidados para não alterar a intenção arquitetônica original.
+
+Objetivo: render de apresentação, não documentação executiva.
+
+--------------------------------------------------------------------------------
+
+PROMPT 26 — PROMPT PARA RENDER EXTERNO
+Categoria: Render e apresentação
+
+Crie um prompt para gerar render externo realista com base em uma vista exportada do Revit.
+
+Preservar:
+- volumetria;
+- aberturas;
+- telhado;
+- proporções;
+- posição de portas e janelas;
+- implantação;
+- estilo arquitetônico.
+
+Aplicar:
+- materiais realistas;
+- iluminação natural;
+- sombras coerentes;
+- paisagismo discreto;
+- acabamento premium;
+- câmera arquitetônica 24–35mm;
+- verticais corrigidas.
+
+Evitar:
+- mudar geometria;
+- adicionar pavimentos;
+- inventar janelas;
+- distorcer paredes;
+- inserir textos, logos ou marcas d’água.
+
+--------------------------------------------------------------------------------
+
+PROMPT 27 — PROMPT PARA RENDER INTERNO
+Categoria: Render e apresentação
+
+Crie um prompt para gerar render interno realista com base em uma vista exportada do Revit.
+
+Preservar:
+- posição de paredes;
+- aberturas;
+- portas e janelas;
+- altura do ambiente;
+- layout principal;
+- proporções do espaço;
+- intenção arquitetônica.
+
+Aplicar:
+- materiais realistas;
+- iluminação natural e artificial coerente;
+- mobiliário compatível com o estilo;
+- decoração discreta;
+- câmera arquitetônica;
+- composição limpa;
+- acabamento premium.
+
+Evitar:
+- alterar dimensões aparentes;
+- criar novas aberturas;
+- remover paredes;
+- inserir textos, logos ou marcas d’água;
+- exagerar elementos decorativos.
+
+--------------------------------------------------------------------------------
+
+PROMPT 28 — MEMORIAL VISUAL CONCEITUAL
+Categoria: Render e apresentação
+
+Crie uma estrutura de memorial visual conceitual para apresentar um projeto [TIPO DE PROJETO] desenvolvido em Revit.
+
+Inclua:
+- conceito geral;
+- volumetria;
+- implantação;
+- setorização;
+- materiais principais;
+- imagens 3D sugeridas;
+- plantas humanizadas;
+- cortes ou fachadas de apoio;
+- narrativa visual;
+- cuidados para não tratar como memorial executivo.
+
+Organize em sequência de páginas para apresentação comercial ou acadêmica.
+
+--------------------------------------------------------------------------------
+
+PROMPT 29 — IDEIA DE ROTINA DYNAMO
+Categoria: Automação conceitual
+
+Crie uma lógica conceitual de rotina Dynamo para Revit com o objetivo de [OBJETIVO].
+
+Explique:
+- entrada de dados;
+- categorias Revit envolvidas;
+- parâmetros necessários;
+- lógica da rotina;
+- saída esperada;
+- riscos;
+- validações;
+- limitações;
+- testes antes de aplicar em arquivo real.
+
+Não gere código definitivo sem conhecer o arquivo, famílias, parâmetros e versão do Revit.
+
+--------------------------------------------------------------------------------
+
+PROMPT 30 — PADRONIZAR NOMES DE VISTAS
+Categoria: Automação conceitual
+
+Crie uma lógica para automatizar a padronização de nomes de vistas no Revit usando Dynamo.
+
+Padrão desejado:
+[DISCIPLINA]_[TIPO DE VISTA]_[PAVIMENTO]_[DESCRIÇÃO]_[REVISÃO]
+
+Inclua:
+- campos necessários;
+- exemplo antes/depois;
+- cuidados para não renomear vistas indevidas;
+- exceções;
+- teste em arquivo duplicado;
+- checklist de validação.
+
+Trate como automação conceitual que precisa ser testada antes de uso em projeto real.
+
+--------------------------------------------------------------------------------
