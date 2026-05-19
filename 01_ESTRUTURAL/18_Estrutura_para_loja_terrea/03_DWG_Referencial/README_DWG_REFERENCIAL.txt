@@ -1,0 +1,1 @@
+Pasta reservada para eventual arquivo DWG referencial. Não inclui DWG técnico validado. Se for adicionado, marcar como: Arquivo referencial para estudo. Não utilizar como projeto executivo, aprovado ou pronto para obra.

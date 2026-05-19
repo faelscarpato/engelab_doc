@@ -1,0 +1,25 @@
+Use o PROMPT-BASE OFICIAL da Biblioteca 50 Projetos-Modelo.
+
+PROJETO 13 - Detalhamento de laje treliçada
+Disciplina: Estrutural
+Nível: Intermediário
+Uso principal: Paginação e corte
+
+TAREFA:
+Crie uma prancha técnica conceitual em A3 horizontal para o projeto-modelo “Detalhamento de laje treliçada”.
+
+CONTEÚDO OBRIGATÓRIO:
+Planta de paginação das vigotas, sentido das vigotas, blocos de enchimento, capa de concreto em corte, apoio e quadro de materiais.
+
+RESTRIÇÕES TÉCNICAS E LEGAIS:
+- Tratar como projeto-modelo para estudo, referência, organização de prancha e compatibilização preliminar.
+- Não apresentar como projeto executivo, projeto aprovado ou documento pronto para obra.
+- Não inserir ART, RRT, CREA, CAU, assinatura técnica, selo de prefeitura, QR code oficial ou carimbo de aprovação.
+- Não dimensionar parâmetros finais; usar termos como “a validar”, “a definir por cálculo/projeto” e “confirmar em norma vigente”.
+- Inserir aviso: “Projeto-modelo para estudo e referência. Necessita validação por profissional habilitado. Não utilizar como projeto executivo ou documento pronto para obra.”
+
+FORMATO E ESTILO:
+A3 horizontal, 300 DPI, aparência AutoCAD/Revit/BIM editorial, fundo branco ou cinza claro, linhas grafite, destaques em azul técnico, título grande, textos legíveis, margens organizadas, carimbo simples e layout premium.
+
+PROMPT NEGATIVO:
+Evitar baixa resolução, texto ilegível, letras deformadas, borrões, linhas tortas, excesso de informação, aparência amadora, carimbo profissional real, assinatura técnica, selo de prefeitura, ART, RRT, CREA, CAU, promessa de aprovação, documento executivo, layout poluído, cotas incoerentes e elementos técnicos inventados como definitivos.
