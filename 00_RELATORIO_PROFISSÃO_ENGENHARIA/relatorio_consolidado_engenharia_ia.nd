@@ -1,0 +1,1071 @@
+---
+title: "Relatório Consolidado - Profissões de Engenharia, Inteligência de Nicho e IA"
+subtitle: "Versão unificada, revisada e estruturada a partir dos relatórios enviados"
+date: "22/05/2026"
+author: "Curador Pedagógico e Redator Técnico GPT"
+lang: pt-BR
+---
+
+# Relatório Consolidado - Profissões de Engenharia, Inteligência de Nicho e IA
+
+**Data de consolidação:** 22/05/2026  
+**Finalidade:** recriar e consolidar os relatórios enviados em um único arquivo estruturado, com checagem de normas e leis brasileiras, metodologia de inferência comportamental, problemas comuns das rotinas profissionais e oportunidades de solução com assistência de IA.
+
+## Aviso técnico, jurídico e ético
+
+Este material é **educacional, estratégico, pedagógico e comercial**. Não é parecer jurídico, laudo técnico, avaliação psicológica, projeto executivo, ART, RRT, TRT, PMOC final, protocolo validado, aprovação normativa ou recomendação de execução direta.  
+Sempre que houver ato técnico, risco à segurança, responsabilidade profissional, tratamento de dados pessoais, diagnóstico psicológico, decisão automatizada ou entrega crítica, a validação deve ser feita por profissional habilitado, conselho competente, equipe jurídica, segurança do trabalho, qualidade ou autoridade responsável.
+
+## Como usar este documento
+
+Use este material como:
+
+- base de inteligência de nicho;
+- mapa de dores e rotinas por profissão;
+- insumo para páginas de venda, módulos, prompts, agentes e treinamentos;
+- base de curadoria pedagógica para conteúdos técnicos;
+- referência para organizar mensagens comerciais sem prometer substituição de profissionais habilitados.
+
+Não use este material como:
+
+- autorização profissional;
+- substituto de norma técnica vigente;
+- checklist legal definitivo;
+- diagnóstico de personalidade individual;
+- laudo, parecer ou documento assinado.
+
+# 1. Entendimento da demanda
+
+A demanda foi consolidar relatórios separados sobre profissões de engenharia e transformá-los em um arquivo único, coerente e pesquisado. O foco pedido foi:
+
+1. reunir todos os relatórios em uma estrutura única;
+2. confirmar leis, normas e limites no Brasil;
+3. explicar como inferir traços de personalidade ou perfil comportamental a partir de informações ocupacionais;
+4. detalhar problemas comuns de rotina das profissões;
+5. indicar como a IA pode resolver ou reduzir esses problemas;
+6. entregar três arquivos: `.nd`, `.pdf` e `.json` estruturado para MCP.
+
+# 2. Diagnóstico dos relatórios originais
+
+Os materiais enviados tinham boa densidade prática, mas estavam distribuídos em arquivos separados, com repetição de avisos, sobreposição de perfis e variação de nomenclatura. A consolidação exigiu:
+
+- unificação das profissões duplicadas;
+- padronização de campos por profissão;
+- separação entre fato legal, inferência comportamental e sugestão comercial;
+- reforço dos limites de responsabilidade técnica;
+- atualização das referências legais e normativas em fontes oficiais;
+- criação de um modelo reaproveitável para agentes, prompts e MCP.
+
+## Fontes enviadas pelo usuário
+
+- Relatorio_Engenharia_02_Inteligencia_de_Nicho.md: base de perfis gerenciais, operações, facilities, produção industrial, construção, coordenação de engenharia e engenharia química.
+- Relatorio_Engenharia_03_Inteligencia_de_Nicho.md: base de gestão de projetos, engenharia aeroespacial, química, civil, água/esgoto, elétrica e ambiental.
+- Relatorio_Engenharia_04_Inteligencia_de_Nicho.md: base de engenharia industrial, validação, manufatura, mecânica, robótica e energia solar.
+- Relatorio_Engenharia_05_Inteligencia_de_Nicho.md: base de desenho técnico, técnicos/tecnólogos, eletricistas e inspetores.
+- Relatorio_Profissoes_Engenharia_Brasil.md: base comparativa transversal sobre profissões, legislação, saúde ocupacional e perfil comportamental.
+- Funções e atividades de um agente Curador Pedagógico e Redator Técnico.txt: base de método pedagógico, padronização, verificação de qualidade e limites do agente.
+
+# 3. Base normativa brasileira confirmada
+
+A regra central para todos os nichos é: **cargo de mercado não define atribuição profissional**. O que importa é o ato técnico realizado, a formação, o registro, as atribuições concedidas, o conselho competente e a responsabilidade assumida.
+
+| Tema | Norma/lei confirmada | Aplicação prática no relatório |
+|---|---|---|
+| Exercício da engenharia | Lei 5.194/1966 | Define base do exercício profissional no Sistema Confea/Crea. |
+| Responsabilidade técnica | Lei 6.496/1977 | ART deve ser considerada em obras e serviços profissionais de engenharia, arquitetura e agronomia. |
+| Atividades e atribuições | Resolução Confea 218/1973 e Resolução Confea 1.073/2016 | Atribuições dependem de formação, título, competências e análise do conselho. |
+| Arquitetura e urbanismo | Lei 12.378/2010 e Resolução CAU/BR 91/2014 | Atividades de arquitetura e urbanismo podem exigir RRT. |
+| Técnicos industriais | Lei 5.524/1968, Decreto 90.922/1985 e Lei 13.639/2018 | Técnicos e sistema CFT/CRT devem ser observados quando houver TRT e atribuições técnicas. |
+| Segurança e saúde no trabalho | NRs do MTE, especialmente NR-01, NR-10, NR-12, NR-13, NR-18, NR-33 e NR-35 | Aplicação depende do ambiente: obra, elétrica, máquinas, pressão, espaços confinados e altura. |
+| Energia solar | Lei 14.300/2022 | Marco legal de microgeração e minigeração distribuída. |
+| PMOC | Lei 13.589/2018 | Manutenção de sistemas de climatização em ambientes de uso público e coletivo. |
+| Química | Lei 2.800/1956 | Atividades da área química podem envolver Sistema CFQ/CRQ conforme caso. |
+| Dados e perfilamento | LGPD - Lei 13.709/2018 | Perfilamento com dados pessoais exige base legal, finalidade, transparência e cuidado com decisões automatizadas. |
+| Avaliação psicológica | Diretrizes CFP / SATEPSI | Inferência ocupacional não é diagnóstico psicológico; testes e avaliação psicológica formal pertencem ao campo profissional da Psicologia. |
+
+
+## 3.1. Interpretação prática para produtos de IA
+
+A Engelab/Biblioteca/IA deve ser posicionada como apoio para:
+
+- organizar informações;
+- estruturar raciocínio;
+- montar checklists;
+- gerar rascunhos;
+- padronizar relatórios;
+- preparar perguntas técnicas;
+- apoiar aprendizagem e documentação preliminar.
+
+A Engelab/Biblioteca/IA não deve ser posicionada como ferramenta para:
+
+- assinar projetos;
+- substituir engenheiro, arquiteto, técnico, químico, psicólogo ou responsável técnico;
+- emitir laudo ou parecer final;
+- garantir aprovação por órgão público, distribuidora, auditoria ou cliente;
+- gerar cálculo final, dimensionamento definitivo ou decisão de segurança;
+- realizar avaliação psicológica individual.
+
+# 4. Metodologia para reconhecimento de personalidade e perfil comportamental
+
+## 4.1. O que é possível fazer
+
+É possível construir **inferências ocupacionais** sobre tendências comportamentais prováveis a partir de:
+
+- tarefas recorrentes;
+- ambiente de trabalho;
+- nível de risco;
+- tipo de decisão;
+- exigência de documentação;
+- interação com clientes, equipes e fiscalização;
+- tolerância a incerteza;
+- necessidade de precisão, criatividade, liderança ou rotina;
+- estilo de compra e objeções prováveis.
+
+Essas inferências ajudam a adaptar linguagem, formato do material, exemplos, módulos, prompts e trilhas de aprendizagem.
+
+## 4.2. O que não deve ser feito
+
+Não se deve afirmar que uma pessoa específica tem determinada personalidade apenas por ocupar um cargo. Também não se deve usar IA para avaliação psicológica, seleção eliminatória, diagnóstico, enquadramento clínico ou decisão automatizada sobre indivíduos sem base legal, transparência, método validado e revisão humana competente.
+
+## 4.3. Modelo seguro de inferência comportamental
+
+O modelo recomendado usa quatro camadas:
+
+1. **Camada ocupacional:** tarefas, responsabilidades, ferramentas, ambiente e riscos.
+2. **Camada comportamental:** padrões prováveis de decisão, comunicação, tolerância a risco, organização e pressão.
+3. **Camada pedagógica/comercial:** linguagem, exemplos, formato de aprendizagem, objeções e proposta de valor.
+4. **Camada de validação:** entrevistas, questionários, revisão humana, consentimento, LGPD e limites éticos.
+
+## 4.4. Escala de confiança recomendada
+
+| Nível | Uso permitido | Exemplo |
+|---|---|---|
+| Baixo | Hipótese de comunicação | "Pode preferir exemplos práticos." |
+| Médio | Persona ocupacional | "Tende a valorizar checklist e evidência." |
+| Alto | Padrão validado por entrevistas ou dados internos | "Nesta equipe, 80% relatam dificuldade com RDO." |
+| Restrito | Avaliação psicológica formal | Somente por profissional habilitado e instrumento adequado. |
+
+## 4.5. Aplicação prática
+
+Em vez de dizer: "este profissional é ansioso", prefira: "a rotina apresenta alta pressão por prazo, múltiplas interfaces e necessidade de registro, então o material deve reduzir carga cognitiva, oferecer checklist e facilitar priorização".
+
+# 5. Problemas comuns transversais nas rotinas de engenharia
+
+## 5.1. Problemas de documentação
+
+- informações espalhadas em WhatsApp, e-mail, planilha e memória;
+- relatórios sem padrão;
+- fotos sem contexto;
+- ausência de versionamento;
+- perda de histórico;
+- dificuldade de transformar observação de campo em texto técnico.
+
+## 5.2. Problemas de responsabilidade e limite profissional
+
+- confusão entre apoio técnico e responsabilidade técnica;
+- uso de modelos como se fossem projeto executivo;
+- emissão de opinião sem validação;
+- ausência de ART/RRT/TRT quando aplicável;
+- medo de registrar algo tecnicamente incorreto.
+
+## 5.3. Problemas de segurança
+
+- eletricidade, altura, máquinas, espaços confinados, pressão, produtos químicos, canteiro e manutenção;
+- pressão por prazo sobrepondo prevenção;
+- checklists incompletos;
+- falha de comunicação com terceiros.
+
+## 5.4. Problemas de gestão
+
+- escopo mudando sem controle;
+- reuniões sem ata;
+- decisões sem responsável;
+- pendências sem prazo;
+- dificuldade de justificar orçamento preventivo ou melhoria técnica.
+
+## 5.5. Problemas de aprendizagem e comunicação
+
+- linguagem técnica demais para cliente;
+- material didático genérico;
+- falta de exemplos por nicho;
+- baixa maturidade digital;
+- resistência a IA por medo de erro, sigilo ou substituição.
+
+# 6. Como a IA pode resolver ou reduzir esses problemas
+
+A IA deve atuar como **assistente de estruturação, revisão, síntese e padronização**, nunca como autoridade final.
+
+## 6.1. Aplicações seguras e úteis
+
+- transformar notas soltas em relatório estruturado;
+- criar checklist por etapa, disciplina ou risco;
+- gerar perguntas para completar briefing;
+- montar ata, plano de ação e matriz de responsabilidades;
+- resumir normas em linguagem didática, com aviso de conferência na fonte oficial;
+- criar glossários e materiais de treinamento;
+- organizar evidências fotográficas;
+- padronizar mensagens para cliente, equipe e diretoria;
+- gerar rascunhos de procedimentos, POPs e instruções de trabalho;
+- apontar lacunas, premissas e dados ausentes.
+
+## 6.2. Controles obrigatórios
+
+- revisão humana antes de uso externo;
+- fonte oficial para leis e normas;
+- registro de versão;
+- campo de "premissas e lacunas";
+- diferenciação entre observação, inferência e conclusão;
+- proteção de dados pessoais e sigilosos;
+- proibição de decisões automáticas em segurança, saúde, aprovação técnica ou avaliação de pessoas.
+
+# 7. Matriz consolidada de profissões e ofertas
+
+| Profissão | Núcleo | Prioridade comercial/pedagógica | Oferta recomendada |
+|---|---|---|---|
+| Gerentes Gerais e de Operações | Gestão e operação | Alta executiva | Módulo de Gestão Técnica com IA: painel de decisões, modelo de relatório executivo, matriz de riscos e biblioteca de prompts para gestores. |
+| Gerentes de Instalações | Facilities e manutenção predial | Muito alta | Módulo Facilities com IA: inventário de ativos, plano preventivo, checklist de inspeção, relatório de não conformidade e prompt de justificativa de orçamento. |
+| Gerentes de Produção Industrial | Indústria, produção e qualidade | Alta B2B | Módulo Produção e Melhoria Contínua: análise de causa, relatório de problema, plano de ação, padrão operacional e checklist de setup. |
+| Gerentes de Construção | Obras e construção | Muito alta | Módulo Gestão de Obras com IA: RDO, relatório fotográfico, matriz de pendências, checklist NR-18 e status report. |
+| Gerentes de Arquitetura e Engenharia | Coordenação técnica e projetos | Alta sênior | Módulo Coordenação Técnica com IA: governança de revisão, matriz de decisões, checklist de compatibilização e registro de premissas. |
+| Especialistas em Gestão de Projetos | Projetos, PMO e governança | Alta | Módulo PMO Técnico com IA: ata, status report, matriz de risco, controle de mudança e briefing de escopo. |
+| Engenheiros Aeroespaciais | Alta engenharia, testes e sistemas críticos | Premium/nicho | Módulo Documentação Técnica Crítica: requisitos, relatório de teste, rastreabilidade e análise de falha conceitual. |
+| Engenheiros Químicos | Processos, química e segurança | Alta | Módulo Engenharia Química e Processos: POPs, relatório de desvio, checklist de segurança, matriz de risco e documentação preliminar. |
+| Engenheiros Civis | Projetos, obras e infraestrutura | Alta | Módulo Engenharia Civil com IA: briefing, checklists, memoriais, RDO, relatório fotográfico e matriz de pendências. |
+| Engenheiros de Água/Esgoto | Saneamento e recursos hídricos | Alta | Módulo Saneamento com IA: checklist de campo, diagnóstico preliminar, relatório executivo e matriz de riscos. |
+| Engenheiros Eletricistas | Sistemas elétricos e energia | Muito alta | Módulo Elétrica com IA: checklist, relatório de vistoria, OS, prontuário documental e plano de pendências. |
+| Engenheiros Ambientais | Meio ambiente, licenças e conformidade | Alta | Módulo Ambiental com IA: diagnóstico, checklist de evidências, controle de condicionantes e relatório executivo. |
+| Engenheiros Industriais | Processos, produtividade e sistemas integrados | Alta | Módulo Indústria e Melhoria Contínua: diagnóstico, 5W2H, causa raiz, indicadores e relatório de melhoria. |
+| Engenheiros de Validação | Qualidade, requisitos e compliance | Alta/premium | Módulo Validação e Qualidade: URS, matriz de rastreabilidade, protocolo conceitual, checklist de evidências e relatório preliminar. |
+| Engenheiros de Manufatura | Manufatura e melhoria de processo | Muito alta | Módulo Manufatura Inteligente: relatório de problema, checklist de setup, análise de gargalo e instrução de trabalho. |
+| Engenheiros Mecânicos | Equipamentos, manutenção e utilidades | Muito alta | Módulo Mecânica e Manutenção: inspeção, diagnóstico, plano preventivo conceitual, matriz de criticidade e relatório. |
+| Engenheiros de Robótica | Automação, robótica e integração | Média/alta | Módulo Automação e Robótica: checklist de célula, análise de risco conceitual, matriz I/O e roteiro de comissionamento. |
+| Engenheiros de Sistemas de Energia Solar | Energia solar e geração distribuída | Muito alta | Módulo Solar com IA: visita técnica, levantamento fotográfico, proposta, checklist NR-10/NR-35 e documentação pós-venda. |
+| Desenhistas de Arquitetura e Engenharia Civil | Desenho técnico, CAD/BIM e documentação | Alta | Módulo CAD/BIM e Revisão de Prancha: briefing, checklist de escala/legenda/carimbo, compatibilização preliminar e memória de revisão. |
+| Tecnólogos e Técnicos em Engenharia Civil | Campo, apoio técnico e documentação de obra | Muito alta | Módulo Técnico de Obra com IA: diário, vistoria, relatório fotográfico, controle de pendências e checklist de serviço. |
+| Eletricistas | Execução, manutenção e diagnóstico elétrico | Muito alta | Módulo Elétrica Operacional: checklist NR-10, ordem de serviço, relatório de atendimento, orçamento técnico e comunicação com cliente. |
+| Inspetores de Construção e Edificações | Inspeção, vistoria e qualidade | Muito alta | Módulo Vistoria e Inspeção Educacional: roteiro de observação, checklist, relatório fotográfico, matriz de risco aparente e plano de pendências. |
+
+# 8. Análise consolidada por profissão
+
+### 1. Gerentes Gerais e de Operações (11-1021.00)
+
+**Núcleo:** Gestão e operação
+
+**Síntese da profissão:** Planejam, dirigem e coordenam operações, metas, recursos e desempenho de unidades ou organizações. Em engenharia, tendem a patrocinar padronização, produtividade e governança técnica, mesmo quando não executam o ato técnico.
+
+**Enquadramento legal e normativo mais provável:**
+- Cargo administrativo não substitui responsabilidade técnica quando houver projeto, laudo, execução, fiscalização ou serviço de engenharia.
+- Aplicar Lei 5.194/1966, Lei 6.496/1977 e normas do conselho competente quando a operação envolver atos técnicos.
+- NR-01/PGR e NR-17 são referências transversais; NRs setoriais dependem do ambiente.
+
+**Perfil comportamental provável:** Perfil executivo, orientado a resultado, controle, indicadores, tomada de decisão e comunicação objetiva. Compra melhor quando vê impacto em custo, risco, produtividade e padronização.
+
+**Problemas comuns na rotina:**
+- relatórios técnicos sem padrão
+- decisões baseadas em informação dispersa
+- dificuldade de treinar equipes
+- baixa rastreabilidade de decisões
+- pressão por redução de custo sem aumentar risco
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- gerar sínteses executivas de relatórios técnicos
+- criar checklists de decisão
+- organizar indicadores e pendências
+- padronizar modelos de relatório
+- transformar reunião em ata, plano de ação e matriz de responsabilidades
+
+**Produto, módulo ou abordagem recomendada:** Módulo de Gestão Técnica com IA: painel de decisões, modelo de relatório executivo, matriz de riscos e biblioteca de prompts para gestores.
+
+**Validação necessária:** Toda recomendação técnica crítica deve ser validada por profissional habilitado.
+
+### 2. Gerentes de Instalações (11-3013.00)
+
+**Núcleo:** Facilities e manutenção predial
+
+**Síntese da profissão:** Coordenam manutenção, conservação, segurança, contratos, orçamento e funcionalidade de edifícios, campi e instalações.
+
+**Enquadramento legal e normativo mais provável:**
+- Atividades de manutenção elétrica, climatização, reforma, laudo, inspeção ou obra podem exigir ART/TRT/RRT.
+- Lei 13.589/2018 é relevante para PMOC em ambientes climatizados.
+- NR-01, NR-10, NR-12, NR-18, NR-33 e NR-35 podem ser aplicáveis conforme a atividade.
+
+**Perfil comportamental provável:** Perfil operacional, prudente, negociador e orientado a prevenção. Precisa equilibrar urgência de chamados, controle de fornecedores e registro de evidências.
+
+**Problemas comuns na rotina:**
+- chamados sem histórico
+- manutenção corretiva excessiva
+- PMOC e documentos espalhados
+- dificuldade de justificar orçamento preventivo
+- terceiros sem padrão de entrega
+- risco de improviso em manutenção crítica
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- converter chamados em histórico estruturado
+- gerar relatório fotográfico
+- priorizar ativos por criticidade
+- preparar justificativas de manutenção preventiva
+- criar checklist de inspeção predial
+
+**Produto, módulo ou abordagem recomendada:** Módulo Facilities com IA: inventário de ativos, plano preventivo, checklist de inspeção, relatório de não conformidade e prompt de justificativa de orçamento.
+
+**Validação necessária:** Não usar IA como laudo predial, PMOC final ou projeto; exigir responsável técnico quando aplicável.
+
+### 3. Gerentes de Produção Industrial (11-3051.00)
+
+**Núcleo:** Indústria, produção e qualidade
+
+**Síntese da profissão:** Coordenam produção, qualidade, pessoas, máquinas, metas, custo e melhoria de processos industriais.
+
+**Enquadramento legal e normativo mais provável:**
+- Mudanças em máquinas, processos, segurança, utilidades e layout podem envolver responsável técnico.
+- NR-01/PGR, NR-12, NR-13, NR-17, NR-20 e NR-26 podem ser relevantes conforme operação.
+- Informações industriais sensíveis exigem governança de dados.
+
+**Perfil comportamental provável:** Perfil pragmático, orientado a meta, produtividade, estabilidade de processo e redução de paradas. Valoriza linguagem operacional e indicadores.
+
+**Problemas comuns na rotina:**
+- paradas recorrentes sem causa raiz registrada
+- instruções de trabalho desatualizadas
+- conflito entre produção, qualidade e manutenção
+- dados em planilhas soltas
+- pressão por produtividade com risco de segurança
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar relato de ocorrência
+- gerar 5 Porquês, Ishikawa e 5W2H preliminares
+- padronizar instruções de trabalho
+- sintetizar reuniões de produção
+- criar matriz de lições aprendidas
+
+**Produto, módulo ou abordagem recomendada:** Módulo Produção e Melhoria Contínua: análise de causa, relatório de problema, plano de ação, padrão operacional e checklist de setup.
+
+**Validação necessária:** Não automatizar decisão de segurança ou alteração de máquina sem análise técnica e validação interna.
+
+### 4. Gerentes de Construção (11-9021.00)
+
+**Núcleo:** Obras e construção
+
+**Síntese da profissão:** Planejam, dirigem e coordenam atividades de obra, prazo, custo, equipe, qualidade, segurança e interface com clientes, projetistas e empreiteiros.
+
+**Enquadramento legal e normativo mais provável:**
+- Execução, fiscalização, alteração de projeto, laudo, vistoria ou direção técnica de obra podem exigir ART/RRT.
+- NR-18 é central na construção; NR-10, NR-12, NR-33 e NR-35 entram conforme risco.
+- Legislação municipal de obras, alvarás e normas técnicas devem ser verificadas no caso concreto.
+
+**Perfil comportamental provável:** Perfil de liderança prática, negociação, tolerância a pressão e solução rápida de problemas. Precisa documentar sem travar a obra.
+
+**Problemas comuns na rotina:**
+- RDO incompleto
+- decisões em WhatsApp sem registro
+- controle fraco de pendências
+- conflito com terceiros
+- cronograma desatualizado
+- evidências insuficientes de qualidade e segurança
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- gerar diário de obra a partir de notas
+- organizar fotos por etapa e pendência
+- montar ata de obra e plano de ação
+- criar checklist por serviço
+- sintetizar status para cliente/diretoria
+
+**Produto, módulo ou abordagem recomendada:** Módulo Gestão de Obras com IA: RDO, relatório fotográfico, matriz de pendências, checklist NR-18 e status report.
+
+**Validação necessária:** IA não substitui gestão de segurança, responsável técnico, diário formal exigido por contrato ou decisões executivas críticas.
+
+### 5. Gerentes de Arquitetura e Engenharia (11-9041.00)
+
+**Núcleo:** Coordenação técnica e projetos
+
+**Síntese da profissão:** Coordenam equipes, disciplinas, revisão técnica, compatibilização, propostas, viabilidade e decisões em arquitetura, engenharia ou P&D.
+
+**Enquadramento legal e normativo mais provável:**
+- Atribuições dependem de formação, registro e conselho competente.
+- Lei 5.194/1966, Resolução Confea 1.073/2016, Lei 12.378/2010 e RRT/ART podem incidir conforme escopo.
+- Gestão não transfere automaticamente responsabilidade técnica.
+
+**Perfil comportamental provável:** Perfil sistêmico, decisor, técnico sênior, orientado a qualidade, governança, método e compatibilização.
+
+**Problemas comuns na rotina:**
+- revisões sem padrão
+- conflitos entre disciplinas
+- falta de critérios de aceite
+- documentação técnica com versões divergentes
+- dificuldade de comunicar decisão para cliente e equipe
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- criar checklist de revisão por disciplina
+- montar matriz de compatibilização preliminar
+- gerar lista de perguntas para projetistas
+- sintetizar riscos e premissas
+- padronizar pareceres internos
+
+**Produto, módulo ou abordagem recomendada:** Módulo Coordenação Técnica com IA: governança de revisão, matriz de decisões, checklist de compatibilização e registro de premissas.
+
+**Validação necessária:** Não usar IA para aprovar projeto final, substituir coordenação técnica ou emitir parecer assinado sem revisão habilitada.
+
+### 6. Especialistas em Gestão de Projetos (13-1082.00)
+
+**Núcleo:** Projetos, PMO e governança
+
+**Síntese da profissão:** Coordenam escopo, prazo, orçamento, aquisições, riscos, stakeholders e entregáveis. Em engenharia, atuam como ponte entre áreas técnicas, fornecedores e direção.
+
+**Enquadramento legal e normativo mais provável:**
+- Gestão de projeto não é automaticamente ato técnico de engenharia, mas passa a exigir cuidado quando envolve direção, fiscalização, parecer, projeto ou responsabilidade técnica.
+- ART/RRT pode ser exigida conforme o serviço técnico contratado.
+- Contratos públicos podem exigir análise da Lei 14.133/2021 no caso concreto.
+
+**Perfil comportamental provável:** Perfil organizado, comunicador, negociador, tolerante a ambiguidade e orientado a registro. Valoriza templates, status claro e rastreabilidade.
+
+**Problemas comuns na rotina:**
+- escopo mudando sem controle
+- cronograma desatualizado
+- atas fracas
+- riscos sem dono
+- informações espalhadas
+- cobrança de entregas sem evidência
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- transformar reunião em ata e plano de ação
+- gerar matriz RACI
+- sintetizar riscos
+- organizar status report
+- criar briefing técnico para fornecedores
+
+**Produto, módulo ou abordagem recomendada:** Módulo PMO Técnico com IA: ata, status report, matriz de risco, controle de mudança e briefing de escopo.
+
+**Validação necessária:** Separar coordenação de processo de responsabilidade técnica por engenharia.
+
+### 7. Engenheiros Aeroespaciais (17-2011.00)
+
+**Núcleo:** Alta engenharia, testes e sistemas críticos
+
+**Síntese da profissão:** Atuam em sistemas aeroespaciais, simulação, testes, requisitos, falhas, certificação, documentação e confiabilidade.
+
+**Enquadramento legal e normativo mais provável:**
+- Atos técnicos dependem de registro, atribuições e escopo no Sistema Confea/Crea.
+- Setores aeronáuticos podem envolver ANAC, RBAC, certificação, defesa, exportação e regras adicionais.
+- Produto educacional deve limitar-se a documentação, organização e apoio conceitual.
+
+**Perfil comportamental provável:** Perfil investigativo, matemático, rigoroso, detalhista, orientado a requisitos, rastreabilidade e revisão por pares.
+
+**Problemas comuns na rotina:**
+- requisitos fragmentados
+- documentação longa
+- evidências de teste difíceis de narrar
+- falhas complexas
+- comunicação entre engenharia, qualidade e produção
+- baixa tolerância a erro
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar requisitos
+- gerar esqueleto de relatório de teste
+- montar matriz de rastreabilidade
+- sintetizar não conformidades
+- estruturar análise preliminar de falha
+
+**Produto, módulo ou abordagem recomendada:** Módulo Documentação Técnica Crítica: requisitos, relatório de teste, rastreabilidade e análise de falha conceitual.
+
+**Validação necessária:** Nunca usar IA como evidência final de certificação, cálculo, ensaio ou aprovação.
+
+### 8. Engenheiros Químicos (17-2041.00)
+
+**Núcleo:** Processos, química e segurança
+
+**Síntese da profissão:** Trabalham com processos químicos, controle, melhoria, produção, segurança, qualidade, documentação e análise de risco.
+
+**Enquadramento legal e normativo mais provável:**
+- Pode envolver Sistema Confea/Crea e também CFQ/CRQ conforme atividade básica e atribuições.
+- Lei 2.800/1956 é relevante para exercício profissional de químico.
+- NR-13, NR-20, NR-26, NR-01/PGR e normas sanitárias/setoriais podem ser aplicáveis conforme processo.
+
+**Perfil comportamental provável:** Perfil analítico, cauteloso, técnico, orientado a segurança de processo, dados, evidências e conformidade.
+
+**Problemas comuns na rotina:**
+- procedimentos desatualizados
+- análise de risco incompleta
+- dados de processo dispersos
+- relatórios técnicos demorados
+- dificuldade de explicar riscos a gestores
+- pressão por produção
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- estruturar POPs
+- organizar análise preliminar de risco
+- gerar briefing de processo
+- sintetizar desvios
+- criar checklists de revisão documental
+
+**Produto, módulo ou abordagem recomendada:** Módulo Engenharia Química e Processos: POPs, relatório de desvio, checklist de segurança, matriz de risco e documentação preliminar.
+
+**Validação necessária:** Não substituir cálculo, simulação, validação sanitária, laudo ou análise de segurança final.
+
+### 9. Engenheiros Civis (17-2051.00)
+
+**Núcleo:** Projetos, obras e infraestrutura
+
+**Síntese da profissão:** Atuam em projetos, obras, infraestrutura, planejamento, fiscalização, orçamento, compatibilização e documentação técnica.
+
+**Enquadramento legal e normativo mais provável:**
+- Profissão regulamentada no Sistema Confea/Crea.
+- Projetos, execução, fiscalização, perícias, laudos e serviços técnicos podem exigir ART.
+- NR-18, normas técnicas, código de obras, licenças e exigências locais entram conforme escopo.
+
+**Perfil comportamental provável:** Perfil técnico-prático, responsável, organizado, com alternância entre escritório e campo. Valoriza clareza, segurança e evidência.
+
+**Problemas comuns na rotina:**
+- retrabalho por briefing incompleto
+- documentação de obra fraca
+- orçamentos e quantitativos com premissas confusas
+- controle de qualidade sem evidência
+- dificuldade de comunicar riscos ao cliente
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- montar briefing técnico
+- organizar RDO e relatório fotográfico
+- gerar checklist de projeto/obra
+- estruturar memorial preliminar
+- criar lista de pendências por disciplina
+
+**Produto, módulo ou abordagem recomendada:** Módulo Engenharia Civil com IA: briefing, checklists, memoriais, RDO, relatório fotográfico e matriz de pendências.
+
+**Validação necessária:** IA não gera projeto executivo final nem substitui ART, cálculo, assinatura ou aprovação.
+
+### 10. Engenheiros de Água/Esgoto (17-2051.02)
+
+**Núcleo:** Saneamento e recursos hídricos
+
+**Síntese da profissão:** Atuam em abastecimento de água, esgotamento sanitário, recursos hídricos, diagnóstico, redes, estações, operação, licenças e relatórios.
+
+**Enquadramento legal e normativo mais provável:**
+- Pode envolver engenharia civil, sanitária, ambiental e atribuições específicas no CREA.
+- Serviços técnicos podem exigir ART e licenciamento ambiental/sanitário.
+- NR-33 é relevante para espaços confinados; NR-35, NR-10 e NR-01 entram conforme campo.
+
+**Perfil comportamental provável:** Perfil metódico, orientado a dados, impacto público, segurança sanitária e continuidade operacional.
+
+**Problemas comuns na rotina:**
+- dados de campo incompletos
+- diagnósticos sem padrão
+- relatórios extensos
+- risco em espaços confinados
+- comunicação difícil com poder público e comunidade
+- licenças e evidências dispersas
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- gerar roteiro de levantamento de campo
+- organizar dados de inspeção
+- criar matriz de não conformidades
+- sintetizar relatório de diagnóstico
+- preparar comunicação executiva
+
+**Produto, módulo ou abordagem recomendada:** Módulo Saneamento com IA: checklist de campo, diagnóstico preliminar, relatório executivo e matriz de riscos.
+
+**Validação necessária:** Não substituir projetos, laudos ambientais, pareceres regulatórios ou decisões de operação crítica.
+
+### 11. Engenheiros Eletricistas (17-2071.00)
+
+**Núcleo:** Sistemas elétricos e energia
+
+**Síntese da profissão:** Atuam com geração, transmissão, distribuição, instalações, painéis, automação, proteção, eficiência, manutenção e documentação elétrica.
+
+**Enquadramento legal e normativo mais provável:**
+- Profissão regulamentada no Sistema Confea/Crea.
+- Projetos, laudos, instalações e serviços técnicos elétricos podem exigir ART.
+- NR-10 é central para segurança em instalações e serviços em eletricidade.
+
+**Perfil comportamental provável:** Perfil cauteloso, técnico, rigoroso e orientado a segurança, confiabilidade, normas e evidência. Baixa tolerância a improviso.
+
+**Problemas comuns na rotina:**
+- prontuários e diagramas desatualizados
+- relatórios de manutenção incompletos
+- risco de choque/arco elétrico
+- dificuldade de explicar premissas ao cliente
+- checklists de comissionamento fracos
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar checklist NR-10
+- gerar relatório de inspeção preliminar
+- montar lista de documentos do prontuário
+- estruturar plano de comissionamento
+- criar comunicação técnica para cliente
+
+**Produto, módulo ou abordagem recomendada:** Módulo Elétrica com IA: checklist, relatório de vistoria, OS, prontuário documental e plano de pendências.
+
+**Validação necessária:** Não usar IA para dimensionamento final, laudo, projeto, energização ou decisão de segurança sem responsável habilitado.
+
+### 12. Engenheiros Ambientais (17-2081.00)
+
+**Núcleo:** Meio ambiente, licenças e conformidade
+
+**Síntese da profissão:** Atuam com diagnóstico ambiental, controle de impactos, licenciamento, resíduos, água, ar, relatórios, auditorias e gestão ambiental.
+
+**Enquadramento legal e normativo mais provável:**
+- Podem envolver CREA, órgãos ambientais, licenciamento e normas ambientais federais, estaduais e municipais.
+- Atos técnicos ambientais podem exigir ART e responsável habilitado.
+- Saúde ocupacional varia conforme campo, laboratório, indústria ou saneamento.
+
+**Perfil comportamental provável:** Perfil analítico, cuidadoso, comunicador, orientado a evidências, impacto socioambiental e conformidade.
+
+**Problemas comuns na rotina:**
+- dados ambientais dispersos
+- relatórios extensos
+- exigências de órgãos diferentes
+- dificuldade de traduzir risco ambiental para gestores
+- controle de condicionantes
+- pressão por prazo de licença
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar condicionantes
+- gerar matriz de evidências
+- estruturar relatório de vistoria
+- criar resumo executivo de diagnóstico
+- montar checklist de documentos
+
+**Produto, módulo ou abordagem recomendada:** Módulo Ambiental com IA: diagnóstico, checklist de evidências, controle de condicionantes e relatório executivo.
+
+**Validação necessária:** Não substituir estudo ambiental, laudo, parecer técnico ou protocolo oficial sem responsável habilitado.
+
+### 13. Engenheiros Industriais (17-2112.00)
+
+**Núcleo:** Processos, produtividade e sistemas integrados
+
+**Síntese da profissão:** Melhoram sistemas integrados de pessoas, materiais, máquinas, métodos, custos, qualidade e produtividade.
+
+**Enquadramento legal e normativo mais provável:**
+- Atribuições podem vir de engenharia de produção, industrial, mecânica, elétrica, controle e automação ou outras formações.
+- Alterações em processo, layout, máquina e segurança podem exigir ART e análise técnica.
+- NR-01, NR-10, NR-12, NR-17 e NR-35 podem ser aplicáveis conforme ambiente.
+
+**Perfil comportamental provável:** Perfil sistêmico, analítico, orientado a dados, indicadores, melhoria contínua e comunicação entre operação e gestão.
+
+**Problemas comuns na rotina:**
+- observações de fábrica sem plano de ação
+- dados espalhados
+- conhecimento tácito de operadores
+- dificuldade de comunicar ROI
+- mudanças sem histórico
+- conflito entre produtividade e segurança
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- criar diagnóstico de processo
+- gerar matriz de causa raiz
+- montar 5W2H
+- sintetizar indicadores e gargalos
+- padronizar relatório de melhoria
+
+**Produto, módulo ou abordagem recomendada:** Módulo Indústria e Melhoria Contínua: diagnóstico, 5W2H, causa raiz, indicadores e relatório de melhoria.
+
+**Validação necessária:** Não substituir engenharia de processo, análise de segurança ou aprovação de mudança.
+
+### 14. Engenheiros de Validação (17-2112.02)
+
+**Núcleo:** Qualidade, requisitos e compliance
+
+**Síntese da profissão:** Planejam e documentam protocolos, testes, qualificação, evidências, rastreabilidade e relatórios em ambientes regulados.
+
+**Enquadramento legal e normativo mais provável:**
+- Pode envolver engenharia, química, farmácia, sanitário ou qualidade, conforme setor.
+- BPF/GMP, ANVISA, ISO e normas internas podem ser aplicáveis.
+- Entregas devem ser estruturas preliminares revisáveis, não validação automática.
+
+**Perfil comportamental provável:** Perfil altamente detalhista, cauteloso, documental, avesso a risco, orientado a evidência, rastreabilidade e controle de versão.
+
+**Problemas comuns na rotina:**
+- documentação extensa
+- medo de auditoria
+- requisitos mal definidos
+- protocolos sem padrão
+- versões conflitantes
+- pressão para validar rápido
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- gerar matriz de rastreabilidade
+- organizar URS e critérios de aceitação
+- criar checklist de evidências
+- estruturar relatório de desvio
+- revisar consistência textual
+
+**Produto, módulo ou abordagem recomendada:** Módulo Validação e Qualidade: URS, matriz de rastreabilidade, protocolo conceitual, checklist de evidências e relatório preliminar.
+
+**Validação necessária:** Documento final deve ser revisado, versionado e aprovado pelo sistema de qualidade e responsável competente.
+
+### 15. Engenheiros de Manufatura (17-2112.03)
+
+**Núcleo:** Manufatura e melhoria de processo
+
+**Síntese da profissão:** Projetam, integram e aprimoram processos de manufatura, equipamentos, fluxo, materiais, métodos, custo e produtividade.
+
+**Enquadramento legal e normativo mais provável:**
+- Mudanças em equipamento, processo, layout e segurança podem exigir atribuições e ART.
+- NR-12 é central para máquinas; NR-10, NR-13, NR-17, NR-06 e NR-01/PGR podem incidir.
+- Procedimentos internos devem prevalecer.
+
+**Perfil comportamental provável:** Executor analítico, pragmático, orientado a processo, custo, qualidade e produção. Valoriza documento curto e aplicável.
+
+**Problemas comuns na rotina:**
+- paradas sem diagnóstico claro
+- mudanças sem documentação
+- lições aprendidas não registradas
+- problemas repetidos
+- conflito produção/qualidade/manutenção
+- pouco tempo para escrever relatórios
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- documentar falhas em poucos passos
+- gerar análise de gargalo
+- criar instrução de trabalho conceitual
+- montar matriz causa-efeito
+- padronizar lições aprendidas
+
+**Produto, módulo ou abordagem recomendada:** Módulo Manufatura Inteligente: relatório de problema, checklist de setup, análise de gargalo e instrução de trabalho.
+
+**Validação necessária:** Usar como rascunho estruturado e respeitar procedimentos internos, segurança de máquina e aprovação técnica.
+
+### 16. Engenheiros Mecânicos (17-2141.00)
+
+**Núcleo:** Equipamentos, manutenção e utilidades
+
+**Síntese da profissão:** Atuam com máquinas, motores, sistemas térmicos, utilidades, inspeção, manutenção, falhas, especificações e documentação.
+
+**Enquadramento legal e normativo mais provável:**
+- Projetos, inspeções, laudos, PMOC, vasos de pressão, tubulações e equipamentos podem exigir ART.
+- NR-12, NR-13, NR-10, NR-35, NR-06, NR-01/PGR e NR-17 são frequentes conforme escopo.
+- Atribuições dependem do registro e campo profissional.
+
+**Perfil comportamental provável:** Perfil técnico profundo, prático, analítico, voltado a funcionamento real, causa de falha, confiabilidade e evidência.
+
+**Problemas comuns na rotina:**
+- falhas recorrentes sem histórico
+- manutenção corretiva urgente
+- relatórios de vistoria demorados
+- justificativa técnica de troca/reparo
+- documentação dispersa
+- risco em equipamentos críticos
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- criar checklist de inspeção
+- organizar histórico de falha
+- gerar relatório preliminar de manutenção
+- montar matriz de criticidade
+- preparar comunicação técnica ao cliente
+
+**Produto, módulo ou abordagem recomendada:** Módulo Mecânica e Manutenção: inspeção, diagnóstico, plano preventivo conceitual, matriz de criticidade e relatório.
+
+**Validação necessária:** Não substituir cálculo, laudo, inspeção formal, plano de manutenção aprovado ou responsabilidade técnica.
+
+### 17. Engenheiros de Robótica (17-2199.08)
+
+**Núcleo:** Automação, robótica e integração
+
+**Síntese da profissão:** Projetam, configuram, testam e dão suporte a aplicações robóticas, sensores, atuadores, controle, automação e integração de células.
+
+**Enquadramento legal e normativo mais provável:**
+- Pode envolver engenharia de controle e automação, mecatrônica, elétrica, mecânica, computação ou produção, conforme escopo.
+- Integrações com máquinas, painéis, segurança e células robotizadas podem exigir ART.
+- NR-12 e NR-10 são críticas; PGR e bloqueio/etiquetagem são essenciais.
+
+**Perfil comportamental provável:** Perfil investigativo, tecnológico, criativo, confortável com software/hardware, mas precisa de disciplina em teste, segurança e documentação.
+
+**Problemas comuns na rotina:**
+- integração complexa mal documentada
+- falhas intermitentes
+- pressão para comissionar rápido
+- lacunas entre programação, mecânica e elétrica
+- risco de movimento inesperado
+- documentação de segurança subestimada
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- gerar briefing de célula
+- criar roteiro de comissionamento
+- montar matriz I/O
+- estruturar troubleshooting
+- documentar premissas e testes
+
+**Produto, módulo ou abordagem recomendada:** Módulo Automação e Robótica: checklist de célula, análise de risco conceitual, matriz I/O e roteiro de comissionamento.
+
+**Validação necessária:** Não substituir análise de risco, validação de segurança, programação crítica ou comissionamento responsável.
+
+### 18. Engenheiros de Sistemas de Energia Solar (17-2199.11)
+
+**Núcleo:** Energia solar e geração distribuída
+
+**Síntese da profissão:** Atuam em visita técnica, projeto, simulação, instalação, conexão, comissionamento, proposta técnica e desempenho de sistemas solares.
+
+**Enquadramento legal e normativo mais provável:**
+- Lei 14.300/2022 institui o marco legal de microgeração e minigeração distribuída.
+- Projetos elétricos e conexão dependem de profissional habilitado e regras da distribuidora.
+- NR-10 e NR-35 são essenciais, além de NR-01/PGR e EPI.
+
+**Perfil comportamental provável:** Perfil técnico-comercial, ágil, comunicador, orientado a campo, confiança, cálculo transparente e proposta apresentável.
+
+**Problemas comuns na rotina:**
+- visita sem checklist
+- dados de telhado incompletos
+- propostas pouco claras
+- documentação variável por distribuidora
+- dificuldade de explicar geração e payback
+- risco em telhado e eletricidade
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- criar checklist de visita
+- transformar conta de luz em briefing
+- gerar proposta técnica preliminar
+- organizar premissas de simulação
+- criar relatório de viabilidade conceitual
+
+**Produto, módulo ou abordagem recomendada:** Módulo Solar com IA: visita técnica, levantamento fotográfico, proposta, checklist NR-10/NR-35 e documentação pós-venda.
+
+**Validação necessária:** Não prometer geração, payback, aprovação de conexão ou projeto final sem análise técnica e regras locais.
+
+### 19. Desenhistas de Arquitetura e Engenharia Civil (17-3011.00)
+
+**Núcleo:** Desenho técnico, CAD/BIM e documentação
+
+**Síntese da profissão:** Transformam croquis, levantamentos, notas e orientações em desenhos, pranchas, detalhes e documentação gráfica.
+
+**Enquadramento legal e normativo mais provável:**
+- Podem atuar como apoio gráfico e documental, sem assumir autoria técnica quando o ato exigir habilitação.
+- Projetos de engenharia demandam responsável no Confea/Crea e ART quando aplicável.
+- Arquitetura e urbanismo podem envolver CAU e RRT; desenho não equivale a assinatura ou autoria de projeto.
+
+**Perfil comportamental provável:** Detalhista, paciente, visual-espacial, organizado e cuidadoso com padrão, escala, layers, legendas e revisão.
+
+**Problemas comuns na rotina:**
+- briefing incompleto
+- retrabalho de prancha
+- arquivos e layers desorganizados
+- revisões confusas
+- dificuldade de transformar croqui em lista de desenhos
+- pouca autonomia técnica
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar briefing de desenho
+- gerar checklist de prancha
+- criar lista de cortes, vistas e detalhes
+- padronizar nomenclatura
+- revisar coerência aparente de entrega
+
+**Produto, módulo ou abordagem recomendada:** Módulo CAD/BIM e Revisão de Prancha: briefing, checklist de escala/legenda/carimbo, compatibilização preliminar e memória de revisão.
+
+**Validação necessária:** Não usar como projeto assinado, dimensionamento, aprovação ou responsabilidade técnica.
+
+### 20. Tecnólogos e Técnicos em Engenharia Civil (17-3022.00)
+
+**Núcleo:** Campo, apoio técnico e documentação de obra
+
+**Síntese da profissão:** Apoiam levantamento, orçamento, medição, diário de obra, relatório, controle de qualidade, vistoria e comunicação com responsável técnico.
+
+**Enquadramento legal e normativo mais provável:**
+- Técnicos industriais de nível médio são regulados pela Lei 5.524/1968, Decreto 90.922/1985 e Sistema CFT/CRT.
+- Tecnólogos podem estar no Sistema Confea/Crea com atribuições conforme formação e registro.
+- Projeto, direção, execução, supervisão, perícia, laudo e serviços com responsabilidade exigem verificação de atribuição.
+
+**Perfil comportamental provável:** Perfil prático, de campo, organizado, comunicador e tolerante à pressão operacional. Valoriza ferramenta simples, rápida e direta.
+
+**Problemas comuns na rotina:**
+- diários e relatórios demorados
+- fotos sem contexto
+- medição e pendências dispersas
+- falta de padrão
+- medo de registrar algo tecnicamente incorreto
+- muitas tarefas simultâneas
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- transformar fotos e notas em relatório
+- gerar checklist de recebimento de serviço
+- organizar diário de obra
+- criar matriz de pendências
+- preparar resumo para engenheiro responsável
+
+**Produto, módulo ou abordagem recomendada:** Módulo Técnico de Obra com IA: diário, vistoria, relatório fotográfico, controle de pendências e checklist de serviço.
+
+**Validação necessária:** Manter como apoio documental e encaminhar conclusões técnicas ao responsável habilitado.
+
+### 21. Eletricistas (47-2111.00)
+
+**Núcleo:** Execução, manutenção e diagnóstico elétrico
+
+**Síntese da profissão:** Instalam, mantêm, reparam, testam e diagnosticam fiação, equipamentos, comandos e componentes elétricos.
+
+**Enquadramento legal e normativo mais provável:**
+- NR-10 é central para segurança em instalações e serviços em eletricidade.
+- Trabalhos podem exigir profissional legalmente habilitado, qualificado, capacitado ou autorizado, conforme contexto normativo.
+- Projetos, laudos e responsabilidades técnicas devem ser assumidos por profissional com atribuição.
+
+**Perfil comportamental provável:** Perfil prático, cuidadoso, de campo, orientado a segurança, diagnóstico, atendimento ao cliente e solução objetiva.
+
+**Problemas comuns na rotina:**
+- risco de choque e arco elétrico
+- diagnóstico sem registro
+- ordens de serviço fracas
+- orçamentos pouco claros
+- fotos e evidências sem padrão
+- cliente não entende risco
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- criar roteiro de atendimento
+- gerar checklist de segurança
+- montar OS e relatório de serviço
+- organizar antes/depois com fotos
+- explicar risco ao cliente em linguagem simples
+
+**Produto, módulo ou abordagem recomendada:** Módulo Elétrica Operacional: checklist NR-10, ordem de serviço, relatório de atendimento, orçamento técnico e comunicação com cliente.
+
+**Validação necessária:** Não usar IA para orientar intervenção insegura, energização, dimensionamento final ou serviço fora de competência.
+
+### 22. Inspetores de Construção e Edificações (47-4011.00)
+
+**Núcleo:** Inspeção, vistoria e qualidade
+
+**Síntese da profissão:** Verificam conformidade, registram evidências, observam não conformidades, comunicam pendências e apoiam qualidade/fiscalização.
+
+**Enquadramento legal e normativo mais provável:**
+- Relatório interno de vistoria não equivale a laudo técnico quando houver conclusão técnica formal.
+- Laudo, perícia, fiscalização técnica ou aprovação podem exigir ART/RRT/TRT e competência profissional.
+- Código de obras, normas técnicas, contrato e NRs devem ser considerados conforme escopo.
+
+**Perfil comportamental provável:** Ético, firme, detalhista, cauteloso, independente e bom comunicador. Precisa dizer não conformidade com critério e evidência.
+
+**Problemas comuns na rotina:**
+- relatórios demorados
+- fotos sem contexto
+- pressão para aprovar
+- pendências sem critério
+- medo de extrapolar escopo
+- checklists diferentes por etapa/disciplina
+
+**Como a IA pode ajudar hoje, sem substituir responsabilidade técnica:**
+- organizar relatório fotográfico
+- gerar matriz de não conformidade
+- criar checklist por disciplina
+- estruturar plano de pendências
+- separar observação de conclusão técnica
+
+**Produto, módulo ou abordagem recomendada:** Módulo Vistoria e Inspeção Educacional: roteiro de observação, checklist, relatório fotográfico, matriz de risco aparente e plano de pendências.
+
+**Validação necessária:** Diferenciar relatório educacional/interno de laudo assinado; exigir validação quando houver responsabilidade técnica.
+
+# 9. Arquitetura recomendada de módulos Engelab/IA
+
+## 9.1. Módulo Gestão Técnica e Operações com IA
+
+**Públicos principais:** gerentes gerais, gerentes de engenharia, gestão de projetos e coordenação técnica.  
+**Entregáveis:** ata, status report, matriz RACI, matriz de risco, plano de ação, relatório executivo, briefing técnico.
+
+## 9.2. Módulo Obras e Campo com IA
+
+**Públicos principais:** engenheiros civis, gerentes de construção, técnicos/tecnólogos, inspetores.  
+**Entregáveis:** RDO, relatório fotográfico, checklist de serviço, plano de pendências, controle de evidências.
+
+## 9.3. Módulo Facilities e Manutenção Predial
+
+**Públicos principais:** gerentes de instalações, engenheiros mecânicos, eletricistas e equipes de manutenção.  
+**Entregáveis:** inventário de ativos, matriz de criticidade, plano preventivo, PMOC preliminar, relatório de não conformidade.
+
+## 9.4. Módulo Indústria, Manufatura e Melhoria Contínua
+
+**Públicos principais:** gerentes de produção, engenheiros industriais, manufatura, mecânicos, robótica e química.  
+**Entregáveis:** análise de causa, 5W2H, instrução de trabalho, relatório de falha, checklist de setup, lições aprendidas.
+
+## 9.5. Módulo Elétrica e Energia Solar
+
+**Públicos principais:** engenheiros eletricistas, eletricistas, engenheiros solares e equipes de instalação.  
+**Entregáveis:** checklist NR-10, visita técnica, OS, relatório de serviço, premissas de simulação, proposta técnica preliminar.
+
+## 9.6. Módulo Qualidade, Validação e Documentação Técnica
+
+**Públicos principais:** engenheiros de validação, aeroespaciais, químicos, indústria regulada e equipes de qualidade.  
+**Entregáveis:** matriz de requisitos, protocolo conceitual, checklist de evidência, relatório de desvio e controle de versão.
+
+# 10. Prompt master para agente de nicho de engenharia
+
+Use este prompt para analisar novas profissões:
+
+> Atue como analista sênior de inteligência de nicho para engenharia no Brasil. Analise a profissão informada considerando: rotina real, responsabilidades, limites legais, conselho profissional aplicável, ART/RRT/TRT quando houver, riscos de segurança e saúde, NRs relacionadas, perfil comportamental provável, dores de rotina, maturidade digital, objeções de compra, linguagem do público e oportunidades de uso da IA. Separe fatos de inferências. Não prometa projeto executivo, laudo, parecer, avaliação psicológica ou substituição de profissional habilitado. Entregue matriz com: quem é o profissional, onde atua, dores, riscos, perfil provável, normas relevantes, módulos vendáveis, mensagens comerciais, checklists e validações obrigatórias.
+
+# 11. Checklist de qualidade para publicação
+
+Antes de publicar qualquer módulo, anúncio, página ou material didático derivado deste relatório, verificar:
+
+- [ ] O material deixa claro que é educacional/conceitual?
+- [ ] Há aviso de validação por profissional habilitado?
+- [ ] Foram removidas promessas de laudo, projeto final, aprovação ou responsabilidade automática?
+- [ ] Leis e NRs foram conferidas em fonte oficial?
+- [ ] O material separa observação, inferência e recomendação?
+- [ ] Há cuidado com LGPD e dados sensíveis?
+- [ ] O perfil comportamental foi tratado como hipótese ocupacional, não diagnóstico?
+- [ ] Há checklist de revisão humana?
+- [ ] O tom está adequado ao público?
+- [ ] O documento tem versão, data e fontes?
+
+# 12. Fontes pesquisadas e confirmadas
+
+## 12.1. Fontes oficiais e técnicas consultadas
+
+- **Lei nº 5.194/1966 - exercício das profissões de engenheiro, arquiteto e engenheiro-agrônomo**. URL: https://www.planalto.gov.br/ccivil_03/leis/l5194.htm  
+  Uso no relatório: Base legal do Sistema Confea/Crea e do exercício profissional de engenharia.
+- **Lei nº 6.496/1977 - Anotação de Responsabilidade Técnica (ART)**. URL: https://www.planalto.gov.br/ccivil_03/leis/l6496.htm  
+  Uso no relatório: Define ART e responsabilidade técnica em contratos de obras e serviços profissionais de engenharia, arquitetura e agronomia.
+- **Resolução Confea nº 218/1973**. URL: https://normativos.confea.org.br/Ementas/Visualizar?id=266  
+  Uso no relatório: Discrimina atividades das modalidades profissionais da engenharia, arquitetura e agronomia.
+- **Resolução Confea nº 1.073/2016**. URL: https://normativos.confea.org.br/Ementas/Visualizar?id=59111  
+  Uso no relatório: Estabelece normas para atribuição de títulos, atividades, competências e campos de atuação.
+- **Lei nº 12.378/2010 - Arquitetura e Urbanismo / CAU**. URL: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12378.htm  
+  Uso no relatório: Regulamenta o exercício de Arquitetura e Urbanismo e cria o CAU/BR e CAU/UF.
+- **Resolução CAU/BR nº 91/2014 - RRT**. URL: https://transparencia.caubr.gov.br/resolucao91/  
+  Uso no relatório: Dispõe sobre Registro de Responsabilidade Técnica em projetos, obras e serviços de Arquitetura e Urbanismo.
+- **Lei nº 5.524/1968 - Técnico Industrial de nível médio**. URL: https://www.planalto.gov.br/ccivil_03/leis/l5524.htm  
+  Uso no relatório: Dispõe sobre o exercício da profissão de Técnico Industrial de nível médio.
+- **Decreto nº 90.922/1985 - técnicos industriais e agrícolas**. URL: https://www.planalto.gov.br/ccivil_03/decreto/antigos/d90922.htm  
+  Uso no relatório: Regulamenta a Lei nº 5.524/1968 e disciplina atribuições de técnicos.
+- **Lei nº 13.639/2018 - Sistema CFT/CRT**. URL: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13639.htm  
+  Uso no relatório: Cria os Conselhos Federal e Regionais dos Técnicos Industriais e Agrícolas.
+- **Normas Regulamentadoras vigentes - MTE**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes  
+  Uso no relatório: Fonte oficial para consulta das NRs vigentes.
+- **NR-01 / GRO / PGR - Ministério do Trabalho e Emprego**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/pgr  
+  Uso no relatório: Base para gerenciamento de riscos ocupacionais e Programa de Gerenciamento de Riscos.
+- **NR-10 - Segurança em Instalações e Serviços em Eletricidade**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-10-nr-10  
+  Uso no relatório: Segurança para trabalhadores que interagem com instalações elétricas e serviços com eletricidade.
+- **NR-12 - Segurança no Trabalho em Máquinas e Equipamentos**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-12-nr-12  
+  Uso no relatório: Máquinas, equipamentos, proteção, integridade física e saúde do trabalhador.
+- **NR-13 - Caldeiras, vasos de pressão, tubulações e tanques metálicos**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-13-nr-13  
+  Uso no relatório: Gestão de integridade estrutural, inspeção, operação e manutenção desses equipamentos.
+- **NR-18 - Segurança e Saúde no Trabalho na Indústria da Construção**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-18-nr-18  
+  Uso no relatório: Diretrizes de segurança e saúde nos processos e ambientes da construção.
+- **NR-33 - Segurança e Saúde nos Trabalhos em Espaços Confinados**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-33-nr-33  
+  Uso no relatório: Caracterização, gerenciamento de riscos e medidas de prevenção em espaços confinados.
+- **NR-35 - Trabalho em Altura**. URL: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-35-nr-35  
+  Uso no relatório: Trabalho em altura e prevenção de quedas.
+- **Lei nº 14.300/2022 - Marco legal da microgeração e minigeração distribuída**. URL: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm  
+  Uso no relatório: Marco legal aplicável a sistemas de geração distribuída, incluindo energia solar.
+- **Lei nº 13.589/2018 - PMOC**. URL: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13589.htm  
+  Uso no relatório: Dispõe sobre manutenção de instalações e equipamentos de sistemas de climatização de ambientes.
+- **Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)**. URL: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm  
+  Uso no relatório: Base legal para tratamento de dados pessoais e cuidados em perfilamento/decisões automatizadas.
+- **Lei nº 2.800/1956 - Sistema CFQ/CRQ**. URL: https://cfq.org.br/leis/lei-no-2800-de-18-de-junho-de-1956/  
+  Uso no relatório: Cria Conselhos de Química e dispõe sobre exercício da profissão de químico.
+- **CFP - Diretrizes para avaliação psicológica e uso profissional de testes**. URL: https://site.cfp.org.br/nova-resolucao-do-cfp-destaca-diretrizes-para-a-avaliacao-psicologica/  
+  Uso no relatório: Define limites profissionais: avaliação psicológica e testes psicológicos são tema próprio da Psicologia.
+- **O*NET Content Model**. URL: https://www.onetcenter.org/content.html  
+  Uso no relatório: Modelo ocupacional para descrever trabalho, habilidades, estilos de trabalho, interesses e requisitos.
+- **NIST AI Risk Management Framework**. URL: https://www.nist.gov/itl/ai-risk-management-framework  
+  Uso no relatório: Referência de gestão de riscos para uso responsável e confiável de IA.
+- **UNESCO - Guidance for generative AI in education and research**. URL: https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research  
+  Uso no relatório: Orientação centrada no humano para uso de IA generativa em educação e pesquisa.
+
+## 12.2. Observação sobre normas ABNT
+
+Normas ABNT podem ser essenciais em projetos, instalações, edificações, acessibilidade, eletricidade, saneamento, máquinas, manutenção e inspeções. Como muitas normas ABNT são documentos pagos e sujeitos a versão, este relatório não reproduz seu conteúdo. Para uso profissional, consultar a versão oficial e vigente.
+
+# 13. Histórico de versão
+
+| Versão | Data | Alteração |
+|---|---|---|
+| 1.0 | 22/05/2026 | Consolidação dos relatórios enviados, pesquisa normativa, estrutura por profissão, metodologia comportamental e preparação para MCP. |
+
+# 14. Conclusão
+
+O conjunto de relatórios mostra uma oportunidade clara: vender IA para engenharia não deve começar pela promessa de "fazer projeto". A proposta mais segura e comercialmente forte é **organizar rotinas técnicas**, reduzir retrabalho, melhorar documentação, criar checklists, transformar observações em relatórios e apoiar comunicação entre campo, escritório, cliente e responsável técnico.
+
+A IA gera valor quando aumenta clareza, rastreabilidade e produtividade. Ela gera risco quando é vendida como substituta de profissional, norma, validação, segurança ou responsabilidade técnica. A estratégia recomendada é posicionar a Engelab como camada de apoio educacional, documental e operacional, com validação humana obrigatória nos pontos críticos.

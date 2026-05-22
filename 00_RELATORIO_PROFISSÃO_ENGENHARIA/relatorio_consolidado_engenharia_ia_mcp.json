@@ -1,0 +1,1053 @@
+{
+  "mcp_context_pack": {
+    "name": "engenharia_inteligencia_nicho_brasil_ia",
+    "version": "1.0.0",
+    "created_at": "2026-05-22",
+    "language": "pt-BR",
+    "description": "Base estruturada para uso por agentes MCP em curadoria, análise de nicho, documentação técnica e criação de módulos de IA para profissões de engenharia no Brasil.",
+    "intended_use": [
+      "inteligência de nicho",
+      "curadoria pedagógica",
+      "redação técnica",
+      "criação de prompts",
+      "apoio a módulos Engelab",
+      "diagnóstico de rotinas profissionais"
+    ],
+    "safety_notice": {
+      "not_legal_advice": true,
+      "not_psychological_assessment": true,
+      "not_engineering_deliverable": true,
+      "requires_human_validation": true,
+      "description": "Não usar como projeto executivo, laudo, parecer jurídico, avaliação psicológica, ART, RRT, TRT, PMOC final ou aprovação normativa."
+    },
+    "resources": [
+      {
+        "uri": "file:///mnt/data/relatorio_consolidado_engenharia_ia.nd",
+        "name": "Relatório consolidado em ND/Markdown",
+        "mimeType": "text/markdown",
+        "description": "Documento principal consolidado."
+      },
+      {
+        "uri": "file:///mnt/data/relatorio_consolidado_engenharia_ia.pdf",
+        "name": "Relatório consolidado em PDF",
+        "mimeType": "application/pdf",
+        "description": "Versão para leitura e compartilhamento."
+      }
+    ],
+    "source_documents": [
+      {
+        "name": "Relatorio_Engenharia_02_Inteligencia_de_Nicho.md",
+        "role": "perfis gerenciais e operacionais"
+      },
+      {
+        "name": "Relatorio_Engenharia_03_Inteligencia_de_Nicho.md",
+        "role": "perfis técnicos clássicos e gestão de projetos"
+      },
+      {
+        "name": "Relatorio_Engenharia_04_Inteligencia_de_Nicho.md",
+        "role": "indústria, validação, manufatura, mecânica, robótica e solar"
+      },
+      {
+        "name": "Relatorio_Engenharia_05_Inteligencia_de_Nicho.md",
+        "role": "perfis de campo, desenho, elétrica operacional e inspeção"
+      },
+      {
+        "name": "Relatorio_Profissoes_Engenharia_Brasil.md",
+        "role": "base transversal de legislação, saúde ocupacional e perfil"
+      },
+      {
+        "name": "Funções e atividades de um agente Curador Pedagógico e Redator Técnico.txt",
+        "role": "método pedagógico e limites do agente"
+      }
+    ],
+    "normative_sources": [
+      {
+        "id": "lei_5194_1966",
+        "title": "Lei nº 5.194/1966 - exercício das profissões de engenheiro, arquiteto e engenheiro-agrônomo",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5194.htm",
+        "relevance": "Base legal do Sistema Confea/Crea e do exercício profissional de engenharia."
+      },
+      {
+        "id": "lei_6496_1977",
+        "title": "Lei nº 6.496/1977 - Anotação de Responsabilidade Técnica (ART)",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l6496.htm",
+        "relevance": "Define ART e responsabilidade técnica em contratos de obras e serviços profissionais de engenharia, arquitetura e agronomia."
+      },
+      {
+        "id": "res_confea_218_1973",
+        "title": "Resolução Confea nº 218/1973",
+        "jurisdiction": "Brasil",
+        "url": "https://normativos.confea.org.br/Ementas/Visualizar?id=266",
+        "relevance": "Discrimina atividades das modalidades profissionais da engenharia, arquitetura e agronomia."
+      },
+      {
+        "id": "res_confea_1073_2016",
+        "title": "Resolução Confea nº 1.073/2016",
+        "jurisdiction": "Brasil",
+        "url": "https://normativos.confea.org.br/Ementas/Visualizar?id=59111",
+        "relevance": "Estabelece normas para atribuição de títulos, atividades, competências e campos de atuação."
+      },
+      {
+        "id": "lei_12378_2010",
+        "title": "Lei nº 12.378/2010 - Arquitetura e Urbanismo / CAU",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12378.htm",
+        "relevance": "Regulamenta o exercício de Arquitetura e Urbanismo e cria o CAU/BR e CAU/UF."
+      },
+      {
+        "id": "res_cau_91_2014",
+        "title": "Resolução CAU/BR nº 91/2014 - RRT",
+        "jurisdiction": "Brasil",
+        "url": "https://transparencia.caubr.gov.br/resolucao91/",
+        "relevance": "Dispõe sobre Registro de Responsabilidade Técnica em projetos, obras e serviços de Arquitetura e Urbanismo."
+      },
+      {
+        "id": "lei_5524_1968",
+        "title": "Lei nº 5.524/1968 - Técnico Industrial de nível médio",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5524.htm",
+        "relevance": "Dispõe sobre o exercício da profissão de Técnico Industrial de nível médio."
+      },
+      {
+        "id": "dec_90922_1985",
+        "title": "Decreto nº 90.922/1985 - técnicos industriais e agrícolas",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/antigos/d90922.htm",
+        "relevance": "Regulamenta a Lei nº 5.524/1968 e disciplina atribuições de técnicos."
+      },
+      {
+        "id": "lei_13639_2018",
+        "title": "Lei nº 13.639/2018 - Sistema CFT/CRT",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13639.htm",
+        "relevance": "Cria os Conselhos Federal e Regionais dos Técnicos Industriais e Agrícolas."
+      },
+      {
+        "id": "nr_portal_mte",
+        "title": "Normas Regulamentadoras vigentes - MTE",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes",
+        "relevance": "Fonte oficial para consulta das NRs vigentes."
+      },
+      {
+        "id": "nr_01_pgr",
+        "title": "NR-01 / GRO / PGR - Ministério do Trabalho e Emprego",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/pgr",
+        "relevance": "Base para gerenciamento de riscos ocupacionais e Programa de Gerenciamento de Riscos."
+      },
+      {
+        "id": "nr_10",
+        "title": "NR-10 - Segurança em Instalações e Serviços em Eletricidade",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-10-nr-10",
+        "relevance": "Segurança para trabalhadores que interagem com instalações elétricas e serviços com eletricidade."
+      },
+      {
+        "id": "nr_12",
+        "title": "NR-12 - Segurança no Trabalho em Máquinas e Equipamentos",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-12-nr-12",
+        "relevance": "Máquinas, equipamentos, proteção, integridade física e saúde do trabalhador."
+      },
+      {
+        "id": "nr_13",
+        "title": "NR-13 - Caldeiras, vasos de pressão, tubulações e tanques metálicos",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-13-nr-13",
+        "relevance": "Gestão de integridade estrutural, inspeção, operação e manutenção desses equipamentos."
+      },
+      {
+        "id": "nr_18",
+        "title": "NR-18 - Segurança e Saúde no Trabalho na Indústria da Construção",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-18-nr-18",
+        "relevance": "Diretrizes de segurança e saúde nos processos e ambientes da construção."
+      },
+      {
+        "id": "nr_33",
+        "title": "NR-33 - Segurança e Saúde nos Trabalhos em Espaços Confinados",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-33-nr-33",
+        "relevance": "Caracterização, gerenciamento de riscos e medidas de prevenção em espaços confinados."
+      },
+      {
+        "id": "nr_35",
+        "title": "NR-35 - Trabalho em Altura",
+        "jurisdiction": "Brasil",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-35-nr-35",
+        "relevance": "Trabalho em altura e prevenção de quedas."
+      },
+      {
+        "id": "lei_14300_2022",
+        "title": "Lei nº 14.300/2022 - Marco legal da microgeração e minigeração distribuída",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm",
+        "relevance": "Marco legal aplicável a sistemas de geração distribuída, incluindo energia solar."
+      },
+      {
+        "id": "lei_13589_2018",
+        "title": "Lei nº 13.589/2018 - PMOC",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13589.htm",
+        "relevance": "Dispõe sobre manutenção de instalações e equipamentos de sistemas de climatização de ambientes."
+      },
+      {
+        "id": "lei_13709_2018",
+        "title": "Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)",
+        "jurisdiction": "Brasil",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+        "relevance": "Base legal para tratamento de dados pessoais e cuidados em perfilamento/decisões automatizadas."
+      },
+      {
+        "id": "lei_2800_1956",
+        "title": "Lei nº 2.800/1956 - Sistema CFQ/CRQ",
+        "jurisdiction": "Brasil",
+        "url": "https://cfq.org.br/leis/lei-no-2800-de-18-de-junho-de-1956/",
+        "relevance": "Cria Conselhos de Química e dispõe sobre exercício da profissão de químico."
+      },
+      {
+        "id": "cfp_avaliacao_psicologica",
+        "title": "CFP - Diretrizes para avaliação psicológica e uso profissional de testes",
+        "jurisdiction": "Brasil",
+        "url": "https://site.cfp.org.br/nova-resolucao-do-cfp-destaca-diretrizes-para-a-avaliacao-psicologica/",
+        "relevance": "Define limites profissionais: avaliação psicológica e testes psicológicos são tema próprio da Psicologia."
+      },
+      {
+        "id": "onet_content_model",
+        "title": "O*NET Content Model",
+        "jurisdiction": "Internacional / EUA",
+        "url": "https://www.onetcenter.org/content.html",
+        "relevance": "Modelo ocupacional para descrever trabalho, habilidades, estilos de trabalho, interesses e requisitos."
+      },
+      {
+        "id": "nist_ai_rmf",
+        "title": "NIST AI Risk Management Framework",
+        "jurisdiction": "Internacional / EUA",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "relevance": "Referência de gestão de riscos para uso responsável e confiável de IA."
+      },
+      {
+        "id": "unesco_genai_edu",
+        "title": "UNESCO - Guidance for generative AI in education and research",
+        "jurisdiction": "Internacional",
+        "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+        "relevance": "Orientação centrada no humano para uso de IA generativa em educação e pesquisa."
+      }
+    ],
+    "personality_inference_model": {
+      "allowed_output": "perfil comportamental ocupacional provável",
+      "forbidden_output": [
+        "diagnóstico psicológico",
+        "teste psicológico",
+        "decisão automatizada sobre pessoa",
+        "classificação clínica",
+        "seleção eliminatória sem validação humana"
+      ],
+      "layers": [
+        "tarefas e contexto ocupacional",
+        "estilos de trabalho e interesses prováveis",
+        "linguagem pedagógica/comercial",
+        "validação humana e LGPD"
+      ],
+      "confidence_levels": [
+        "baixo",
+        "médio",
+        "alto",
+        "restrito"
+      ],
+      "required_controls": [
+        "transparência",
+        "consentimento ou base legal quando houver dados pessoais",
+        "não discriminação",
+        "revisão humana",
+        "registro de premissas",
+        "fontes rastreáveis"
+      ]
+    },
+    "professions": [
+      {
+        "id": "gerentes_gerais_operacoes",
+        "name": "Gerentes Gerais e de Operações",
+        "code": "11-1021.00",
+        "cluster": "Gestão e operação",
+        "summary": "Planejam, dirigem e coordenam operações, metas, recursos e desempenho de unidades ou organizações. Em engenharia, tendem a patrocinar padronização, produtividade e governança técnica, mesmo quando não executam o ato técnico.",
+        "legal": [
+          "Cargo administrativo não substitui responsabilidade técnica quando houver projeto, laudo, execução, fiscalização ou serviço de engenharia.",
+          "Aplicar Lei 5.194/1966, Lei 6.496/1977 e normas do conselho competente quando a operação envolver atos técnicos.",
+          "NR-01/PGR e NR-17 são referências transversais; NRs setoriais dependem do ambiente."
+        ],
+        "personality": "Perfil executivo, orientado a resultado, controle, indicadores, tomada de decisão e comunicação objetiva. Compra melhor quando vê impacto em custo, risco, produtividade e padronização.",
+        "problems": [
+          "relatórios técnicos sem padrão",
+          "decisões baseadas em informação dispersa",
+          "dificuldade de treinar equipes",
+          "baixa rastreabilidade de decisões",
+          "pressão por redução de custo sem aumentar risco"
+        ],
+        "ai": [
+          "gerar sínteses executivas de relatórios técnicos",
+          "criar checklists de decisão",
+          "organizar indicadores e pendências",
+          "padronizar modelos de relatório",
+          "transformar reunião em ata, plano de ação e matriz de responsabilidades"
+        ],
+        "offer": "Módulo de Gestão Técnica com IA: painel de decisões, modelo de relatório executivo, matriz de riscos e biblioteca de prompts para gestores.",
+        "validation": "Toda recomendação técnica crítica deve ser validada por profissional habilitado."
+      },
+      {
+        "id": "gerentes_instalacoes",
+        "name": "Gerentes de Instalações",
+        "code": "11-3013.00",
+        "cluster": "Facilities e manutenção predial",
+        "summary": "Coordenam manutenção, conservação, segurança, contratos, orçamento e funcionalidade de edifícios, campi e instalações.",
+        "legal": [
+          "Atividades de manutenção elétrica, climatização, reforma, laudo, inspeção ou obra podem exigir ART/TRT/RRT.",
+          "Lei 13.589/2018 é relevante para PMOC em ambientes climatizados.",
+          "NR-01, NR-10, NR-12, NR-18, NR-33 e NR-35 podem ser aplicáveis conforme a atividade."
+        ],
+        "personality": "Perfil operacional, prudente, negociador e orientado a prevenção. Precisa equilibrar urgência de chamados, controle de fornecedores e registro de evidências.",
+        "problems": [
+          "chamados sem histórico",
+          "manutenção corretiva excessiva",
+          "PMOC e documentos espalhados",
+          "dificuldade de justificar orçamento preventivo",
+          "terceiros sem padrão de entrega",
+          "risco de improviso em manutenção crítica"
+        ],
+        "ai": [
+          "converter chamados em histórico estruturado",
+          "gerar relatório fotográfico",
+          "priorizar ativos por criticidade",
+          "preparar justificativas de manutenção preventiva",
+          "criar checklist de inspeção predial"
+        ],
+        "offer": "Módulo Facilities com IA: inventário de ativos, plano preventivo, checklist de inspeção, relatório de não conformidade e prompt de justificativa de orçamento.",
+        "validation": "Não usar IA como laudo predial, PMOC final ou projeto; exigir responsável técnico quando aplicável."
+      },
+      {
+        "id": "gerentes_producao_industrial",
+        "name": "Gerentes de Produção Industrial",
+        "code": "11-3051.00",
+        "cluster": "Indústria, produção e qualidade",
+        "summary": "Coordenam produção, qualidade, pessoas, máquinas, metas, custo e melhoria de processos industriais.",
+        "legal": [
+          "Mudanças em máquinas, processos, segurança, utilidades e layout podem envolver responsável técnico.",
+          "NR-01/PGR, NR-12, NR-13, NR-17, NR-20 e NR-26 podem ser relevantes conforme operação.",
+          "Informações industriais sensíveis exigem governança de dados."
+        ],
+        "personality": "Perfil pragmático, orientado a meta, produtividade, estabilidade de processo e redução de paradas. Valoriza linguagem operacional e indicadores.",
+        "problems": [
+          "paradas recorrentes sem causa raiz registrada",
+          "instruções de trabalho desatualizadas",
+          "conflito entre produção, qualidade e manutenção",
+          "dados em planilhas soltas",
+          "pressão por produtividade com risco de segurança"
+        ],
+        "ai": [
+          "organizar relato de ocorrência",
+          "gerar 5 Porquês, Ishikawa e 5W2H preliminares",
+          "padronizar instruções de trabalho",
+          "sintetizar reuniões de produção",
+          "criar matriz de lições aprendidas"
+        ],
+        "offer": "Módulo Produção e Melhoria Contínua: análise de causa, relatório de problema, plano de ação, padrão operacional e checklist de setup.",
+        "validation": "Não automatizar decisão de segurança ou alteração de máquina sem análise técnica e validação interna."
+      },
+      {
+        "id": "gerentes_construcao",
+        "name": "Gerentes de Construção",
+        "code": "11-9021.00",
+        "cluster": "Obras e construção",
+        "summary": "Planejam, dirigem e coordenam atividades de obra, prazo, custo, equipe, qualidade, segurança e interface com clientes, projetistas e empreiteiros.",
+        "legal": [
+          "Execução, fiscalização, alteração de projeto, laudo, vistoria ou direção técnica de obra podem exigir ART/RRT.",
+          "NR-18 é central na construção; NR-10, NR-12, NR-33 e NR-35 entram conforme risco.",
+          "Legislação municipal de obras, alvarás e normas técnicas devem ser verificadas no caso concreto."
+        ],
+        "personality": "Perfil de liderança prática, negociação, tolerância a pressão e solução rápida de problemas. Precisa documentar sem travar a obra.",
+        "problems": [
+          "RDO incompleto",
+          "decisões em WhatsApp sem registro",
+          "controle fraco de pendências",
+          "conflito com terceiros",
+          "cronograma desatualizado",
+          "evidências insuficientes de qualidade e segurança"
+        ],
+        "ai": [
+          "gerar diário de obra a partir de notas",
+          "organizar fotos por etapa e pendência",
+          "montar ata de obra e plano de ação",
+          "criar checklist por serviço",
+          "sintetizar status para cliente/diretoria"
+        ],
+        "offer": "Módulo Gestão de Obras com IA: RDO, relatório fotográfico, matriz de pendências, checklist NR-18 e status report.",
+        "validation": "IA não substitui gestão de segurança, responsável técnico, diário formal exigido por contrato ou decisões executivas críticas."
+      },
+      {
+        "id": "gerentes_arquitetura_engenharia",
+        "name": "Gerentes de Arquitetura e Engenharia",
+        "code": "11-9041.00",
+        "cluster": "Coordenação técnica e projetos",
+        "summary": "Coordenam equipes, disciplinas, revisão técnica, compatibilização, propostas, viabilidade e decisões em arquitetura, engenharia ou P&D.",
+        "legal": [
+          "Atribuições dependem de formação, registro e conselho competente.",
+          "Lei 5.194/1966, Resolução Confea 1.073/2016, Lei 12.378/2010 e RRT/ART podem incidir conforme escopo.",
+          "Gestão não transfere automaticamente responsabilidade técnica."
+        ],
+        "personality": "Perfil sistêmico, decisor, técnico sênior, orientado a qualidade, governança, método e compatibilização.",
+        "problems": [
+          "revisões sem padrão",
+          "conflitos entre disciplinas",
+          "falta de critérios de aceite",
+          "documentação técnica com versões divergentes",
+          "dificuldade de comunicar decisão para cliente e equipe"
+        ],
+        "ai": [
+          "criar checklist de revisão por disciplina",
+          "montar matriz de compatibilização preliminar",
+          "gerar lista de perguntas para projetistas",
+          "sintetizar riscos e premissas",
+          "padronizar pareceres internos"
+        ],
+        "offer": "Módulo Coordenação Técnica com IA: governança de revisão, matriz de decisões, checklist de compatibilização e registro de premissas.",
+        "validation": "Não usar IA para aprovar projeto final, substituir coordenação técnica ou emitir parecer assinado sem revisão habilitada."
+      },
+      {
+        "id": "especialistas_gestao_projetos",
+        "name": "Especialistas em Gestão de Projetos",
+        "code": "13-1082.00",
+        "cluster": "Projetos, PMO e governança",
+        "summary": "Coordenam escopo, prazo, orçamento, aquisições, riscos, stakeholders e entregáveis. Em engenharia, atuam como ponte entre áreas técnicas, fornecedores e direção.",
+        "legal": [
+          "Gestão de projeto não é automaticamente ato técnico de engenharia, mas passa a exigir cuidado quando envolve direção, fiscalização, parecer, projeto ou responsabilidade técnica.",
+          "ART/RRT pode ser exigida conforme o serviço técnico contratado.",
+          "Contratos públicos podem exigir análise da Lei 14.133/2021 no caso concreto."
+        ],
+        "personality": "Perfil organizado, comunicador, negociador, tolerante a ambiguidade e orientado a registro. Valoriza templates, status claro e rastreabilidade.",
+        "problems": [
+          "escopo mudando sem controle",
+          "cronograma desatualizado",
+          "atas fracas",
+          "riscos sem dono",
+          "informações espalhadas",
+          "cobrança de entregas sem evidência"
+        ],
+        "ai": [
+          "transformar reunião em ata e plano de ação",
+          "gerar matriz RACI",
+          "sintetizar riscos",
+          "organizar status report",
+          "criar briefing técnico para fornecedores"
+        ],
+        "offer": "Módulo PMO Técnico com IA: ata, status report, matriz de risco, controle de mudança e briefing de escopo.",
+        "validation": "Separar coordenação de processo de responsabilidade técnica por engenharia."
+      },
+      {
+        "id": "engenheiros_aeroespaciais",
+        "name": "Engenheiros Aeroespaciais",
+        "code": "17-2011.00",
+        "cluster": "Alta engenharia, testes e sistemas críticos",
+        "summary": "Atuam em sistemas aeroespaciais, simulação, testes, requisitos, falhas, certificação, documentação e confiabilidade.",
+        "legal": [
+          "Atos técnicos dependem de registro, atribuições e escopo no Sistema Confea/Crea.",
+          "Setores aeronáuticos podem envolver ANAC, RBAC, certificação, defesa, exportação e regras adicionais.",
+          "Produto educacional deve limitar-se a documentação, organização e apoio conceitual."
+        ],
+        "personality": "Perfil investigativo, matemático, rigoroso, detalhista, orientado a requisitos, rastreabilidade e revisão por pares.",
+        "problems": [
+          "requisitos fragmentados",
+          "documentação longa",
+          "evidências de teste difíceis de narrar",
+          "falhas complexas",
+          "comunicação entre engenharia, qualidade e produção",
+          "baixa tolerância a erro"
+        ],
+        "ai": [
+          "organizar requisitos",
+          "gerar esqueleto de relatório de teste",
+          "montar matriz de rastreabilidade",
+          "sintetizar não conformidades",
+          "estruturar análise preliminar de falha"
+        ],
+        "offer": "Módulo Documentação Técnica Crítica: requisitos, relatório de teste, rastreabilidade e análise de falha conceitual.",
+        "validation": "Nunca usar IA como evidência final de certificação, cálculo, ensaio ou aprovação."
+      },
+      {
+        "id": "engenheiros_quimicos",
+        "name": "Engenheiros Químicos",
+        "code": "17-2041.00",
+        "cluster": "Processos, química e segurança",
+        "summary": "Trabalham com processos químicos, controle, melhoria, produção, segurança, qualidade, documentação e análise de risco.",
+        "legal": [
+          "Pode envolver Sistema Confea/Crea e também CFQ/CRQ conforme atividade básica e atribuições.",
+          "Lei 2.800/1956 é relevante para exercício profissional de químico.",
+          "NR-13, NR-20, NR-26, NR-01/PGR e normas sanitárias/setoriais podem ser aplicáveis conforme processo."
+        ],
+        "personality": "Perfil analítico, cauteloso, técnico, orientado a segurança de processo, dados, evidências e conformidade.",
+        "problems": [
+          "procedimentos desatualizados",
+          "análise de risco incompleta",
+          "dados de processo dispersos",
+          "relatórios técnicos demorados",
+          "dificuldade de explicar riscos a gestores",
+          "pressão por produção"
+        ],
+        "ai": [
+          "estruturar POPs",
+          "organizar análise preliminar de risco",
+          "gerar briefing de processo",
+          "sintetizar desvios",
+          "criar checklists de revisão documental"
+        ],
+        "offer": "Módulo Engenharia Química e Processos: POPs, relatório de desvio, checklist de segurança, matriz de risco e documentação preliminar.",
+        "validation": "Não substituir cálculo, simulação, validação sanitária, laudo ou análise de segurança final."
+      },
+      {
+        "id": "engenheiros_civis",
+        "name": "Engenheiros Civis",
+        "code": "17-2051.00",
+        "cluster": "Projetos, obras e infraestrutura",
+        "summary": "Atuam em projetos, obras, infraestrutura, planejamento, fiscalização, orçamento, compatibilização e documentação técnica.",
+        "legal": [
+          "Profissão regulamentada no Sistema Confea/Crea.",
+          "Projetos, execução, fiscalização, perícias, laudos e serviços técnicos podem exigir ART.",
+          "NR-18, normas técnicas, código de obras, licenças e exigências locais entram conforme escopo."
+        ],
+        "personality": "Perfil técnico-prático, responsável, organizado, com alternância entre escritório e campo. Valoriza clareza, segurança e evidência.",
+        "problems": [
+          "retrabalho por briefing incompleto",
+          "documentação de obra fraca",
+          "orçamentos e quantitativos com premissas confusas",
+          "controle de qualidade sem evidência",
+          "dificuldade de comunicar riscos ao cliente"
+        ],
+        "ai": [
+          "montar briefing técnico",
+          "organizar RDO e relatório fotográfico",
+          "gerar checklist de projeto/obra",
+          "estruturar memorial preliminar",
+          "criar lista de pendências por disciplina"
+        ],
+        "offer": "Módulo Engenharia Civil com IA: briefing, checklists, memoriais, RDO, relatório fotográfico e matriz de pendências.",
+        "validation": "IA não gera projeto executivo final nem substitui ART, cálculo, assinatura ou aprovação."
+      },
+      {
+        "id": "engenheiros_agua_esgoto",
+        "name": "Engenheiros de Água/Esgoto",
+        "code": "17-2051.02",
+        "cluster": "Saneamento e recursos hídricos",
+        "summary": "Atuam em abastecimento de água, esgotamento sanitário, recursos hídricos, diagnóstico, redes, estações, operação, licenças e relatórios.",
+        "legal": [
+          "Pode envolver engenharia civil, sanitária, ambiental e atribuições específicas no CREA.",
+          "Serviços técnicos podem exigir ART e licenciamento ambiental/sanitário.",
+          "NR-33 é relevante para espaços confinados; NR-35, NR-10 e NR-01 entram conforme campo."
+        ],
+        "personality": "Perfil metódico, orientado a dados, impacto público, segurança sanitária e continuidade operacional.",
+        "problems": [
+          "dados de campo incompletos",
+          "diagnósticos sem padrão",
+          "relatórios extensos",
+          "risco em espaços confinados",
+          "comunicação difícil com poder público e comunidade",
+          "licenças e evidências dispersas"
+        ],
+        "ai": [
+          "gerar roteiro de levantamento de campo",
+          "organizar dados de inspeção",
+          "criar matriz de não conformidades",
+          "sintetizar relatório de diagnóstico",
+          "preparar comunicação executiva"
+        ],
+        "offer": "Módulo Saneamento com IA: checklist de campo, diagnóstico preliminar, relatório executivo e matriz de riscos.",
+        "validation": "Não substituir projetos, laudos ambientais, pareceres regulatórios ou decisões de operação crítica."
+      },
+      {
+        "id": "engenheiros_eletricistas",
+        "name": "Engenheiros Eletricistas",
+        "code": "17-2071.00",
+        "cluster": "Sistemas elétricos e energia",
+        "summary": "Atuam com geração, transmissão, distribuição, instalações, painéis, automação, proteção, eficiência, manutenção e documentação elétrica.",
+        "legal": [
+          "Profissão regulamentada no Sistema Confea/Crea.",
+          "Projetos, laudos, instalações e serviços técnicos elétricos podem exigir ART.",
+          "NR-10 é central para segurança em instalações e serviços em eletricidade."
+        ],
+        "personality": "Perfil cauteloso, técnico, rigoroso e orientado a segurança, confiabilidade, normas e evidência. Baixa tolerância a improviso.",
+        "problems": [
+          "prontuários e diagramas desatualizados",
+          "relatórios de manutenção incompletos",
+          "risco de choque/arco elétrico",
+          "dificuldade de explicar premissas ao cliente",
+          "checklists de comissionamento fracos"
+        ],
+        "ai": [
+          "organizar checklist NR-10",
+          "gerar relatório de inspeção preliminar",
+          "montar lista de documentos do prontuário",
+          "estruturar plano de comissionamento",
+          "criar comunicação técnica para cliente"
+        ],
+        "offer": "Módulo Elétrica com IA: checklist, relatório de vistoria, OS, prontuário documental e plano de pendências.",
+        "validation": "Não usar IA para dimensionamento final, laudo, projeto, energização ou decisão de segurança sem responsável habilitado."
+      },
+      {
+        "id": "engenheiros_ambientais",
+        "name": "Engenheiros Ambientais",
+        "code": "17-2081.00",
+        "cluster": "Meio ambiente, licenças e conformidade",
+        "summary": "Atuam com diagnóstico ambiental, controle de impactos, licenciamento, resíduos, água, ar, relatórios, auditorias e gestão ambiental.",
+        "legal": [
+          "Podem envolver CREA, órgãos ambientais, licenciamento e normas ambientais federais, estaduais e municipais.",
+          "Atos técnicos ambientais podem exigir ART e responsável habilitado.",
+          "Saúde ocupacional varia conforme campo, laboratório, indústria ou saneamento."
+        ],
+        "personality": "Perfil analítico, cuidadoso, comunicador, orientado a evidências, impacto socioambiental e conformidade.",
+        "problems": [
+          "dados ambientais dispersos",
+          "relatórios extensos",
+          "exigências de órgãos diferentes",
+          "dificuldade de traduzir risco ambiental para gestores",
+          "controle de condicionantes",
+          "pressão por prazo de licença"
+        ],
+        "ai": [
+          "organizar condicionantes",
+          "gerar matriz de evidências",
+          "estruturar relatório de vistoria",
+          "criar resumo executivo de diagnóstico",
+          "montar checklist de documentos"
+        ],
+        "offer": "Módulo Ambiental com IA: diagnóstico, checklist de evidências, controle de condicionantes e relatório executivo.",
+        "validation": "Não substituir estudo ambiental, laudo, parecer técnico ou protocolo oficial sem responsável habilitado."
+      },
+      {
+        "id": "engenheiros_industriais",
+        "name": "Engenheiros Industriais",
+        "code": "17-2112.00",
+        "cluster": "Processos, produtividade e sistemas integrados",
+        "summary": "Melhoram sistemas integrados de pessoas, materiais, máquinas, métodos, custos, qualidade e produtividade.",
+        "legal": [
+          "Atribuições podem vir de engenharia de produção, industrial, mecânica, elétrica, controle e automação ou outras formações.",
+          "Alterações em processo, layout, máquina e segurança podem exigir ART e análise técnica.",
+          "NR-01, NR-10, NR-12, NR-17 e NR-35 podem ser aplicáveis conforme ambiente."
+        ],
+        "personality": "Perfil sistêmico, analítico, orientado a dados, indicadores, melhoria contínua e comunicação entre operação e gestão.",
+        "problems": [
+          "observações de fábrica sem plano de ação",
+          "dados espalhados",
+          "conhecimento tácito de operadores",
+          "dificuldade de comunicar ROI",
+          "mudanças sem histórico",
+          "conflito entre produtividade e segurança"
+        ],
+        "ai": [
+          "criar diagnóstico de processo",
+          "gerar matriz de causa raiz",
+          "montar 5W2H",
+          "sintetizar indicadores e gargalos",
+          "padronizar relatório de melhoria"
+        ],
+        "offer": "Módulo Indústria e Melhoria Contínua: diagnóstico, 5W2H, causa raiz, indicadores e relatório de melhoria.",
+        "validation": "Não substituir engenharia de processo, análise de segurança ou aprovação de mudança."
+      },
+      {
+        "id": "engenheiros_validacao",
+        "name": "Engenheiros de Validação",
+        "code": "17-2112.02",
+        "cluster": "Qualidade, requisitos e compliance",
+        "summary": "Planejam e documentam protocolos, testes, qualificação, evidências, rastreabilidade e relatórios em ambientes regulados.",
+        "legal": [
+          "Pode envolver engenharia, química, farmácia, sanitário ou qualidade, conforme setor.",
+          "BPF/GMP, ANVISA, ISO e normas internas podem ser aplicáveis.",
+          "Entregas devem ser estruturas preliminares revisáveis, não validação automática."
+        ],
+        "personality": "Perfil altamente detalhista, cauteloso, documental, avesso a risco, orientado a evidência, rastreabilidade e controle de versão.",
+        "problems": [
+          "documentação extensa",
+          "medo de auditoria",
+          "requisitos mal definidos",
+          "protocolos sem padrão",
+          "versões conflitantes",
+          "pressão para validar rápido"
+        ],
+        "ai": [
+          "gerar matriz de rastreabilidade",
+          "organizar URS e critérios de aceitação",
+          "criar checklist de evidências",
+          "estruturar relatório de desvio",
+          "revisar consistência textual"
+        ],
+        "offer": "Módulo Validação e Qualidade: URS, matriz de rastreabilidade, protocolo conceitual, checklist de evidências e relatório preliminar.",
+        "validation": "Documento final deve ser revisado, versionado e aprovado pelo sistema de qualidade e responsável competente."
+      },
+      {
+        "id": "engenheiros_manufatura",
+        "name": "Engenheiros de Manufatura",
+        "code": "17-2112.03",
+        "cluster": "Manufatura e melhoria de processo",
+        "summary": "Projetam, integram e aprimoram processos de manufatura, equipamentos, fluxo, materiais, métodos, custo e produtividade.",
+        "legal": [
+          "Mudanças em equipamento, processo, layout e segurança podem exigir atribuições e ART.",
+          "NR-12 é central para máquinas; NR-10, NR-13, NR-17, NR-06 e NR-01/PGR podem incidir.",
+          "Procedimentos internos devem prevalecer."
+        ],
+        "personality": "Executor analítico, pragmático, orientado a processo, custo, qualidade e produção. Valoriza documento curto e aplicável.",
+        "problems": [
+          "paradas sem diagnóstico claro",
+          "mudanças sem documentação",
+          "lições aprendidas não registradas",
+          "problemas repetidos",
+          "conflito produção/qualidade/manutenção",
+          "pouco tempo para escrever relatórios"
+        ],
+        "ai": [
+          "documentar falhas em poucos passos",
+          "gerar análise de gargalo",
+          "criar instrução de trabalho conceitual",
+          "montar matriz causa-efeito",
+          "padronizar lições aprendidas"
+        ],
+        "offer": "Módulo Manufatura Inteligente: relatório de problema, checklist de setup, análise de gargalo e instrução de trabalho.",
+        "validation": "Usar como rascunho estruturado e respeitar procedimentos internos, segurança de máquina e aprovação técnica."
+      },
+      {
+        "id": "engenheiros_mecanicos",
+        "name": "Engenheiros Mecânicos",
+        "code": "17-2141.00",
+        "cluster": "Equipamentos, manutenção e utilidades",
+        "summary": "Atuam com máquinas, motores, sistemas térmicos, utilidades, inspeção, manutenção, falhas, especificações e documentação.",
+        "legal": [
+          "Projetos, inspeções, laudos, PMOC, vasos de pressão, tubulações e equipamentos podem exigir ART.",
+          "NR-12, NR-13, NR-10, NR-35, NR-06, NR-01/PGR e NR-17 são frequentes conforme escopo.",
+          "Atribuições dependem do registro e campo profissional."
+        ],
+        "personality": "Perfil técnico profundo, prático, analítico, voltado a funcionamento real, causa de falha, confiabilidade e evidência.",
+        "problems": [
+          "falhas recorrentes sem histórico",
+          "manutenção corretiva urgente",
+          "relatórios de vistoria demorados",
+          "justificativa técnica de troca/reparo",
+          "documentação dispersa",
+          "risco em equipamentos críticos"
+        ],
+        "ai": [
+          "criar checklist de inspeção",
+          "organizar histórico de falha",
+          "gerar relatório preliminar de manutenção",
+          "montar matriz de criticidade",
+          "preparar comunicação técnica ao cliente"
+        ],
+        "offer": "Módulo Mecânica e Manutenção: inspeção, diagnóstico, plano preventivo conceitual, matriz de criticidade e relatório.",
+        "validation": "Não substituir cálculo, laudo, inspeção formal, plano de manutenção aprovado ou responsabilidade técnica."
+      },
+      {
+        "id": "engenheiros_robotica",
+        "name": "Engenheiros de Robótica",
+        "code": "17-2199.08",
+        "cluster": "Automação, robótica e integração",
+        "summary": "Projetam, configuram, testam e dão suporte a aplicações robóticas, sensores, atuadores, controle, automação e integração de células.",
+        "legal": [
+          "Pode envolver engenharia de controle e automação, mecatrônica, elétrica, mecânica, computação ou produção, conforme escopo.",
+          "Integrações com máquinas, painéis, segurança e células robotizadas podem exigir ART.",
+          "NR-12 e NR-10 são críticas; PGR e bloqueio/etiquetagem são essenciais."
+        ],
+        "personality": "Perfil investigativo, tecnológico, criativo, confortável com software/hardware, mas precisa de disciplina em teste, segurança e documentação.",
+        "problems": [
+          "integração complexa mal documentada",
+          "falhas intermitentes",
+          "pressão para comissionar rápido",
+          "lacunas entre programação, mecânica e elétrica",
+          "risco de movimento inesperado",
+          "documentação de segurança subestimada"
+        ],
+        "ai": [
+          "gerar briefing de célula",
+          "criar roteiro de comissionamento",
+          "montar matriz I/O",
+          "estruturar troubleshooting",
+          "documentar premissas e testes"
+        ],
+        "offer": "Módulo Automação e Robótica: checklist de célula, análise de risco conceitual, matriz I/O e roteiro de comissionamento.",
+        "validation": "Não substituir análise de risco, validação de segurança, programação crítica ou comissionamento responsável."
+      },
+      {
+        "id": "engenheiros_solar",
+        "name": "Engenheiros de Sistemas de Energia Solar",
+        "code": "17-2199.11",
+        "cluster": "Energia solar e geração distribuída",
+        "summary": "Atuam em visita técnica, projeto, simulação, instalação, conexão, comissionamento, proposta técnica e desempenho de sistemas solares.",
+        "legal": [
+          "Lei 14.300/2022 institui o marco legal de microgeração e minigeração distribuída.",
+          "Projetos elétricos e conexão dependem de profissional habilitado e regras da distribuidora.",
+          "NR-10 e NR-35 são essenciais, além de NR-01/PGR e EPI."
+        ],
+        "personality": "Perfil técnico-comercial, ágil, comunicador, orientado a campo, confiança, cálculo transparente e proposta apresentável.",
+        "problems": [
+          "visita sem checklist",
+          "dados de telhado incompletos",
+          "propostas pouco claras",
+          "documentação variável por distribuidora",
+          "dificuldade de explicar geração e payback",
+          "risco em telhado e eletricidade"
+        ],
+        "ai": [
+          "criar checklist de visita",
+          "transformar conta de luz em briefing",
+          "gerar proposta técnica preliminar",
+          "organizar premissas de simulação",
+          "criar relatório de viabilidade conceitual"
+        ],
+        "offer": "Módulo Solar com IA: visita técnica, levantamento fotográfico, proposta, checklist NR-10/NR-35 e documentação pós-venda.",
+        "validation": "Não prometer geração, payback, aprovação de conexão ou projeto final sem análise técnica e regras locais."
+      },
+      {
+        "id": "desenhistas_arquitetura_engenharia_civil",
+        "name": "Desenhistas de Arquitetura e Engenharia Civil",
+        "code": "17-3011.00",
+        "cluster": "Desenho técnico, CAD/BIM e documentação",
+        "summary": "Transformam croquis, levantamentos, notas e orientações em desenhos, pranchas, detalhes e documentação gráfica.",
+        "legal": [
+          "Podem atuar como apoio gráfico e documental, sem assumir autoria técnica quando o ato exigir habilitação.",
+          "Projetos de engenharia demandam responsável no Confea/Crea e ART quando aplicável.",
+          "Arquitetura e urbanismo podem envolver CAU e RRT; desenho não equivale a assinatura ou autoria de projeto."
+        ],
+        "personality": "Detalhista, paciente, visual-espacial, organizado e cuidadoso com padrão, escala, layers, legendas e revisão.",
+        "problems": [
+          "briefing incompleto",
+          "retrabalho de prancha",
+          "arquivos e layers desorganizados",
+          "revisões confusas",
+          "dificuldade de transformar croqui em lista de desenhos",
+          "pouca autonomia técnica"
+        ],
+        "ai": [
+          "organizar briefing de desenho",
+          "gerar checklist de prancha",
+          "criar lista de cortes, vistas e detalhes",
+          "padronizar nomenclatura",
+          "revisar coerência aparente de entrega"
+        ],
+        "offer": "Módulo CAD/BIM e Revisão de Prancha: briefing, checklist de escala/legenda/carimbo, compatibilização preliminar e memória de revisão.",
+        "validation": "Não usar como projeto assinado, dimensionamento, aprovação ou responsabilidade técnica."
+      },
+      {
+        "id": "tecnologos_tecnicos_engenharia_civil",
+        "name": "Tecnólogos e Técnicos em Engenharia Civil",
+        "code": "17-3022.00",
+        "cluster": "Campo, apoio técnico e documentação de obra",
+        "summary": "Apoiam levantamento, orçamento, medição, diário de obra, relatório, controle de qualidade, vistoria e comunicação com responsável técnico.",
+        "legal": [
+          "Técnicos industriais de nível médio são regulados pela Lei 5.524/1968, Decreto 90.922/1985 e Sistema CFT/CRT.",
+          "Tecnólogos podem estar no Sistema Confea/Crea com atribuições conforme formação e registro.",
+          "Projeto, direção, execução, supervisão, perícia, laudo e serviços com responsabilidade exigem verificação de atribuição."
+        ],
+        "personality": "Perfil prático, de campo, organizado, comunicador e tolerante à pressão operacional. Valoriza ferramenta simples, rápida e direta.",
+        "problems": [
+          "diários e relatórios demorados",
+          "fotos sem contexto",
+          "medição e pendências dispersas",
+          "falta de padrão",
+          "medo de registrar algo tecnicamente incorreto",
+          "muitas tarefas simultâneas"
+        ],
+        "ai": [
+          "transformar fotos e notas em relatório",
+          "gerar checklist de recebimento de serviço",
+          "organizar diário de obra",
+          "criar matriz de pendências",
+          "preparar resumo para engenheiro responsável"
+        ],
+        "offer": "Módulo Técnico de Obra com IA: diário, vistoria, relatório fotográfico, controle de pendências e checklist de serviço.",
+        "validation": "Manter como apoio documental e encaminhar conclusões técnicas ao responsável habilitado."
+      },
+      {
+        "id": "eletricistas",
+        "name": "Eletricistas",
+        "code": "47-2111.00",
+        "cluster": "Execução, manutenção e diagnóstico elétrico",
+        "summary": "Instalam, mantêm, reparam, testam e diagnosticam fiação, equipamentos, comandos e componentes elétricos.",
+        "legal": [
+          "NR-10 é central para segurança em instalações e serviços em eletricidade.",
+          "Trabalhos podem exigir profissional legalmente habilitado, qualificado, capacitado ou autorizado, conforme contexto normativo.",
+          "Projetos, laudos e responsabilidades técnicas devem ser assumidos por profissional com atribuição."
+        ],
+        "personality": "Perfil prático, cuidadoso, de campo, orientado a segurança, diagnóstico, atendimento ao cliente e solução objetiva.",
+        "problems": [
+          "risco de choque e arco elétrico",
+          "diagnóstico sem registro",
+          "ordens de serviço fracas",
+          "orçamentos pouco claros",
+          "fotos e evidências sem padrão",
+          "cliente não entende risco"
+        ],
+        "ai": [
+          "criar roteiro de atendimento",
+          "gerar checklist de segurança",
+          "montar OS e relatório de serviço",
+          "organizar antes/depois com fotos",
+          "explicar risco ao cliente em linguagem simples"
+        ],
+        "offer": "Módulo Elétrica Operacional: checklist NR-10, ordem de serviço, relatório de atendimento, orçamento técnico e comunicação com cliente.",
+        "validation": "Não usar IA para orientar intervenção insegura, energização, dimensionamento final ou serviço fora de competência."
+      },
+      {
+        "id": "inspetores_construcao_edificacoes",
+        "name": "Inspetores de Construção e Edificações",
+        "code": "47-4011.00",
+        "cluster": "Inspeção, vistoria e qualidade",
+        "summary": "Verificam conformidade, registram evidências, observam não conformidades, comunicam pendências e apoiam qualidade/fiscalização.",
+        "legal": [
+          "Relatório interno de vistoria não equivale a laudo técnico quando houver conclusão técnica formal.",
+          "Laudo, perícia, fiscalização técnica ou aprovação podem exigir ART/RRT/TRT e competência profissional.",
+          "Código de obras, normas técnicas, contrato e NRs devem ser considerados conforme escopo."
+        ],
+        "personality": "Ético, firme, detalhista, cauteloso, independente e bom comunicador. Precisa dizer não conformidade com critério e evidência.",
+        "problems": [
+          "relatórios demorados",
+          "fotos sem contexto",
+          "pressão para aprovar",
+          "pendências sem critério",
+          "medo de extrapolar escopo",
+          "checklists diferentes por etapa/disciplina"
+        ],
+        "ai": [
+          "organizar relatório fotográfico",
+          "gerar matriz de não conformidade",
+          "criar checklist por disciplina",
+          "estruturar plano de pendências",
+          "separar observação de conclusão técnica"
+        ],
+        "offer": "Módulo Vistoria e Inspeção Educacional: roteiro de observação, checklist, relatório fotográfico, matriz de risco aparente e plano de pendências.",
+        "validation": "Diferenciar relatório educacional/interno de laudo assinado; exigir validação quando houver responsabilidade técnica."
+      }
+    ],
+    "tools": [
+      {
+        "name": "diagnosticar_nicho_engenharia",
+        "description": "Gera diagnóstico estruturado de uma profissão ou cargo de engenharia no Brasil com foco em rotina, dores, normas, perfil provável e oportunidades de IA.",
+        "input_schema": {
+          "type": "object",
+          "properties": {
+            "profissao": {
+              "type": "string"
+            },
+            "contexto": {
+              "type": "string"
+            },
+            "publico_alvo": {
+              "type": "string"
+            },
+            "objetivo": {
+              "type": "string",
+              "enum": [
+                "venda",
+                "treinamento",
+                "documentacao",
+                "produto",
+                "pesquisa"
+              ]
+            },
+            "nivel_detalhe": {
+              "type": "string",
+              "enum": [
+                "resumo",
+                "completo",
+                "executivo"
+              ]
+            }
+          },
+          "required": [
+            "profissao",
+            "objetivo"
+          ]
+        },
+        "output_schema": {
+          "type": "object",
+          "properties": {
+            "sintese": {
+              "type": "string"
+            },
+            "rotina": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "normas_relevantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "perfil_comportamental_provavel": {
+              "type": "string"
+            },
+            "dores": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "solucoes_com_ia": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "validacoes_obrigatorias": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "gerar_prompt_modulo_engelab",
+        "description": "Gera prompts e estrutura de módulo para uma profissão, respeitando limites legais e técnicos.",
+        "input_schema": {
+          "type": "object",
+          "properties": {
+            "profissao_id": {
+              "type": "string"
+            },
+            "tipo_entregavel": {
+              "type": "string",
+              "enum": [
+                "checklist",
+                "relatorio",
+                "trilha",
+                "aula",
+                "agente",
+                "pagina_venda"
+              ]
+            },
+            "restricoes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "profissao_id",
+            "tipo_entregavel"
+          ]
+        }
+      }
+    ],
+    "quality_checklist": [
+      "confirmar leis e NRs em fonte oficial antes de uso externo",
+      "não prometer substituição de profissional habilitado",
+      "separar conteúdo educacional de responsabilidade técnica",
+      "preservar dados pessoais e sigilosos",
+      "registrar versão e data da fonte",
+      "incluir campo de lacunas e premissas",
+      "exigir revisão humana em temas críticos"
+    ]
+  }
+}
